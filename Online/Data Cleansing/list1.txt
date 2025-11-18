@@ -1,0 +1,1423 @@
+
+7-Zip 25.01 (x64) : Copyright (c) 1999-2025 Igor Pavlov : 2025-08-03
+ 64-bit locale=C.UTF-8 Threads:28 OPEN_MAX:10240, ASM
+
+Scanning the drive for archives:
+1 file, 77066480114 bytes (72 GiB)
+
+Listing archive: Leaked Database Archive.7z
+
+--
+Path = Leaked Database Archive.7z
+Type = 7z
+Physical Size = 77066480114
+Headers Size = 36896
+Method = LZMA:23
+Solid = +
+Blocks = 1
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2018-05-31 14:19:23 ....A    113336812  77066443218  DBw/AbuseWith.Us-Lookups.rar
+2018-05-30 12:06:03 ....A     43635621               DBw/AndroidForums.com_VB_26-12-2013.sql.7z
+2018-05-30 05:47:56 ....A     46564134               DBw/Argentina - Estadio de los Inmigrantes.rar
+2018-05-30 02:28:49 ....A       155509               DBw/stigma3-database.sql
+2018-06-02 17:47:29 ....A     49872669               DBw/production-db-dump-2018-05-11-134902.sql
+2018-05-30 12:03:43 ....A     51938554               DBw/ovh_kimsufi_2015.7z
+2018-05-30 12:10:18 ....A    158520312               DBw/taobao.7z
+2018-05-30 13:09:46 ....A    163926907               DBw/Biggest _er Pack.rar
+2018-05-30 13:08:54 ....A    299009564               DBw/NaughtyAmerica.7z
+2018-05-30 13:05:24 ....A     67100270               DBw/blackhatworld.7z
+2018-05-30 13:45:38 ....A   1457520640               DBw/Adobe 152M.tar.gz
+2018-05-31 13:36:06 ....A    457434414               DBw/mSpy.7z
+2018-06-02 17:42:43 ....A       201142               DBw/lietuvni_nuke1_2014-03-30_10h39m.Sunday.sql.gz
+2018-06-02 17:30:01 ....A       626530               DBw/dutfsdb1.sql
+2018-06-02 18:06:11 ....A       102684               DBw/torrent.sql
+2018-05-31 07:16:43 ....A   5595572787               DBw/edmodo.7z
+2018-05-31 03:45:55 ....A    137100507               DBw/Gamevn.com.txt
+2018-05-31 06:33:51 ....A    292805543               DBw/twitter.7z
+2018-05-31 09:01:29 ....A   9079378731               DBw/Exploit.in.7z
+2018-05-31 08:30:24 ....A     19244760               DBw/mega.co.nz_partialdump.7z
+2018-05-31 13:54:11 ....A   2114751092               DBw/Tumblr_2013_users.7z
+2018-05-31 13:26:20 ....A   1202556637               DBw/VK.COM_100M.rar
+2018-05-31 13:21:13 ....A     45052409               DBw/acne.org_ibf_members_11_25_2014.7z
+2018-05-31 13:21:10 ....A     18419822               DBw/MineField188K.7z
+2018-05-31 13:21:23 ....A     33914581               DBw/SnapChat.7z
+2018-05-31 13:34:35 ....A    110125592               DBw/muslimmatch.com.7z
+2018-05-31 13:36:57 ....A      5225349               DBw/de.Streamscene.cc_jan_2012_users.sql
+2018-05-31 13:34:50 ....A     91941800               DBw/R2Games_2.1M_2015.txt.7z
+2018-05-31 13:37:04 ....A     62300166               DBw/apple_data.7z
+2018-05-31 13:53:13 ....A   1801781248               DBw/Ashley_Madison_users.gz
+2018-05-31 14:15:52 ....A     11854746               DBw/Solomid.net_ipb_November_2014.txt.7z
+2018-05-31 13:58:31 ....A    100388714               DBw/YouPorn.com.rar
+2018-05-31 13:58:28 ....A     72028513               DBw/NextGenUpdate.7z
+2018-05-31 13:59:18 ....A     17579439               DBw/XXXhdPorn (db + source).7z
+2018-05-31 14:02:55 ....A    427671552               DBw/imesh.rar
+2018-05-31 14:00:10 ....A     71219038               DBw/AdultFriendFinder2015.7z
+2018-05-31 14:16:59 ....A    275833744               DBw/lsbg.net (lifeboat).txt.7z
+2018-05-31 14:15:09 ....A     13982175               DBw/brazzers com April 2013.7z
+2018-05-31 14:15:58 ....A    116115769               DBw/OwnagePranks2016.7z
+2018-05-31 14:20:14 ....A    452182939               DBw/gawker_real_release.rar
+2018-05-31 14:22:48 ....A    142859039               DBw/7k7k.com.7z
+2018-05-31 14:33:17 ....A     46643274               DBw/STRATFOR USERS DATABASE.7z
+2018-06-01 01:59:00 ....A     51350272               DBw/BTC-E_RaidForums.7z
+2018-06-01 01:46:04 ....A     30438435               DBw/944k Combo HQ [Email-pass][ufc-hbonow-spotify-deezer-vpn-origin-netflix-steam.].txt
+2018-06-01 01:58:57 ....A    108172681               DBw/elitecarders.name_2016-08-09_07-55-21.sql.gz
+2018-06-02 17:26:22 ....A       542480               DBw/BACKUP-531399 (1).sql
+2018-06-02 18:04:58 ....A    907960745               DBw/combined_tickets.txt
+2018-06-02 17:25:27 ....A       542480               DBw/BACKUP-531399.sql
+2018-06-02 17:25:30 ....A       287927               DBw/omsys.sql
+2018-06-02 17:35:05 ....A        33440               DBw/sample_data (1).sql
+2018-06-02 17:26:24 ....A       287927               DBw/omsys (1).sql
+2018-06-02 17:47:13 ....A     40279700               DBw/production-db-dump-2018-05-14-085337.sql
+2018-06-02 17:48:08 ....A         3554               DBw/9-12-incident.backup
+2018-06-02 17:42:38 ....A       378376               DBw/lietuvni_wordpress_2014-03-30_10h39m.Sunday.sql.gz
+2018-06-02 17:42:40 ....A          463               DBw/information_schema_2014-03-30_10h39m.Sunday.sql.gz
+2018-06-02 17:48:59 ....A         2910               DBw/close_end_qs.sql
+2018-06-02 17:42:45 ....A        84148               DBw/lietuvni_nuketest_2014-03-30_10h39m.Sunday.sql.gz
+2018-06-02 17:42:47 ....A        20423               DBw/lietuvni_vpoll_2014-03-30_10h39m.Sunday.sql.gz
+2018-06-02 17:43:03 ....A     19120950               DBw/targray.com.sql.gz
+2018-06-02 17:44:22 ....A     54929366               DBw/ss_dbname_3fcb5b7hhg.sql
+2018-06-02 17:44:06 ....A      1248783               DBw/ravegearllcsql.sql
+2018-06-02 17:44:24 ....A      2829531               DBw/theatero_hapticlab.20100617.1254.INSERT.sql.gz
+2018-06-02 17:44:25 ....A      2887887               DBw/theatero_hapticlab.20100617.1254.INSERT_WPinstr.sql.gz
+2018-06-02 17:44:39 ....A     22762165               DBw/acm1427212015629.sql
+2018-06-02 17:44:26 ....A      4079843               DBw/the1329405544030.sql
+2018-06-02 17:44:33 ....A      2887887               DBw/theatero_hapticlab.20100617.1254.INSERT_WPinstr (1).sql.gz
+2018-06-02 17:44:47 ....A      3616519               DBw/theatero_hapticlab.20100617.1254.UPDATE (1).sql.gz
+2018-06-02 17:45:31 ....A      1391605               DBw/mysql5.1.55data.2013-08-27-04-35.tar.gz
+2018-06-02 17:45:11 ....A      1402520               DBw/mysql5.1.55data.2013-08-28-06-34.tar.gz
+2018-06-02 17:47:00 ....A      1391605               DBw/mysql5.1.55data.2013-08-27-04-35 (1).tar.gz
+2018-06-02 17:47:35 ....A      1402520               DBw/mysql5.1.55data.2013-08-28-06-34 (2).tar.gz
+2018-06-02 17:47:41 ....A      1391605               DBw/mysql5.1.55data.2013-08-27-04-35 (2).tar.gz
+2018-06-02 17:47:07 ....A     49791849               DBw/local-db-dump-2018-05-11-134612.sql
+2018-06-02 17:46:22 ....A     49873072               DBw/local-db-dump-2018-05-14-084232.sql
+2018-06-02 17:46:40 ....A     27749020               DBw/local-db-dump-2018-05-16-134729.sql
+2018-06-02 17:47:07 ....A     36942131               DBw/local-db-dump-2018-05-16-135957.sql
+2018-06-02 17:45:56 ....A      5649128               DBw/local-db-dump-2018-05-30-123026.sql
+2018-06-02 17:52:16 ....A       112886               DBw/enviroca_wp_2015-08-27.sql.gz
+2018-06-02 17:46:20 ....A      1262639               DBw/MAS_mysql.sql
+2018-06-02 17:47:23 ....A      3325155               DBw/amplifytest.sql
+2018-06-02 17:46:33 ....A       596834               DBw/backup-on-2018-04-24-10-43-33 (1).zip
+2018-06-02 17:46:48 ....A       734230               DBw/ontrixde_302-ctp.sql
+2018-06-02 17:46:52 ....A       736032               DBw/rmb1325909084078.sql
+2018-06-02 17:46:56 ....A       947139               DBw/amp1319612113676.sql
+2018-06-02 17:46:59 ....A       820604               DBw/amp1324103330722.sql
+2018-06-02 17:47:02 ....A        29178               DBw/amp1501503351655.sql
+2018-06-02 17:47:12 ....A      1374365               DBw/renaissanceman1.sql
+2018-06-02 17:48:26 ....A     12237782               DBw/renaissanceman.sql
+2018-06-02 17:48:05 ....A         3074               DBw/13-9-garbled-data.backup
+2018-06-02 17:48:06 ....A         3502               DBw/13-9-garbled-data_new.backup
+2018-06-02 17:48:40 ....A         1888               DBw/9-13-disaster_type.sql
+2018-06-02 17:48:51 ....A        95411               DBw/cfr_v2.sql
+2018-06-02 17:51:36 ....A          118               DBw/d1548-tta_20151103-092118.sql.gz (1).descr
+2018-06-02 17:48:55 ....A         4149               DBw/choices.sql
+2018-06-02 17:49:02 ....A         4130               DBw/close_end_qs_choices.sql
+2018-06-02 17:49:17 ....A         2815               DBw/user_choices.sql
+2018-06-02 17:49:05 ....A         3173               DBw/incident_close_end_answs.sql
+2018-06-02 17:49:08 ....A         7323               DBw/incident_qs_choice.sql
+2018-06-02 17:49:11 ....A         2890               DBw/lang-trans-9-19.sql
+2018-06-02 17:49:14 ....A         3159               DBw/qs.sql
+2018-06-02 17:50:38 ....A       423225               DBw/d1548-tta_20151103-092118.sql.gz
+2018-06-02 17:50:40 ....A       559319               DBw/d1548-tta_20121214-074438.sql.gz
+2018-06-02 17:51:40 ....A       423225               DBw/d1548-tta_20151103-092118 (1).sql.gz
+2018-06-02 17:53:07 ....A    186829162               DBw/mergersindia.sql
+2018-06-02 17:51:54 ....A      1661440               DBw/hoovertarget.bak
+2018-06-02 17:52:01 ....A       112704               DBw/enviroca_wp_2014-09-29.sql.gz
+2018-06-02 17:52:04 ....A       113299               DBw/enviroca_wp_2014-10-27.sql.gz
+2018-06-02 17:52:10 ....A       112884               DBw/enviroca_wp_2014-12-27.sql.gz
+2018-06-02 17:52:11 ....A       112887               DBw/enviroca_wp_2015-01-27.sql.gz
+2018-06-02 17:52:14 ....A       112887               DBw/enviroca_wp_2015-06-27.sql.gz
+2018-06-02 17:52:17 ....A       112887               DBw/enviroca_wp_2015-09-27.sql.gz
+2018-06-02 18:04:41 ....A        19279               DBw/BennettD_W2A3sr1rabbi001aii_SE.docx
+2018-06-02 17:52:20 ....A       112889               DBw/enviroca_wp_2015-10-27.sql.gz
+2018-06-02 17:52:23 ....A       112889               DBw/enviroca_wp_2017-03-27.sql.gz
+2018-06-02 17:52:26 ....A       112887               DBw/enviroca_wp_2018-02-27.sql.gz
+2018-06-02 17:52:29 ....A       112887               DBw/enviroca_wp_2018-04-27.sql.gz
+2018-06-02 17:52:29 ....A       112887               DBw/enviroca_wp_2018-05-27.sql.gz
+2018-06-02 17:52:31 ....A       262761               DBw/enviroca_wp_20140905_2053.sql.gz
+2018-06-02 17:53:12 ....A      5924595               DBw/2018-06-02.zip
+2018-06-02 17:54:54 ....A     83986944               DBw/eco0724508520233_1023550463_full.bak
+2018-06-02 17:54:27 ....A      3247616               DBw/eco0724508520233_1023550463_incremental.bak
+2018-06-02 17:55:46 ....A       267748               DBw/ID_Brasil_Digital_2018_01_10_1515620547_6b6edc7_wpdb.zip
+2018-06-02 17:59:36 ....A        92368               DBw/putty.log
+2018-06-02 18:06:52 ....A       102684               DBw/torrent (1).sql
+2018-06-02 18:08:18 ....A      1507448               DBw/GowriTXT.rtf
+2018-06-02 18:08:18 ....A       427704               DBw/12a.rtf
+2018-05-29 13:52:56 ....A       986819               DBw/Abusewith.us DB Lookup - aba.txt.gz
+2018-05-29 23:25:39 ....A   3997819699               DBw/patreondump.tar.gz
+2018-05-29 17:13:22 ....A      2509400               DBw/crackcom_dhruv_users.sql.xz
+2018-05-29 16:42:36 ....A         3039               DBw/Boardgamelevelup.com .txt.gz
+2018-05-29 16:56:39 ....A      2095104               DBw/MC-Market.sql
+2018-05-29 16:42:04 ....A       172004               DBw/AdminCurve.net.sql
+2018-05-29 16:47:52 ....A    385035879               DBw/Allegedqnb Files.7z
+2018-05-29 16:39:27 ....A      4598240               DBw/6-3-2012-loungeboard.net.sql
+2018-05-29 16:39:29 ....A       130116               DBw/AWT-GPI.com  (1).txt.gz
+2018-05-29 16:42:11 ....A      9914177               DBw/AdminDiscussion.com.sql
+2018-05-29 16:42:42 ....A      1287083               DBw/BlackMarketReloaded_users.sql
+2018-05-29 16:43:30 ....A       807920               DBw/EazySubs_Part2DB.txt.xz
+2018-05-29 16:42:55 ....A     20201581               DBw/Avast_2014_400k.rar
+2018-05-29 13:48:50 ....A     11111959               DBw/1.txt.gz
+2018-05-29 16:43:17 ....A       155208               DBw/FOEDeCrypted.txt.xz
+2018-05-29 16:42:52 ....A         7212               DBw/Cycloneservers (1).sql.gz
+2018-05-29 16:42:44 ....A        47362               DBw/Citadel.sx_August_2016.7z
+2018-05-29 16:42:49 ....A        15157               DBw/Condusef.gob.mx (1).txt.gz
+2018-05-29 13:48:58 ....A        40545               DBw/143vpn db.txt.gz
+2018-05-29 16:43:53 ....A      1367891               DBw/GTABox.sql
+2018-05-29 16:43:43 ....A     10182418               DBw/Dump-diverseb_forum31-2013-06-28.sql
+2018-05-29 16:43:21 ....A       993231               DBw/Dumpbase_December_2016.7z
+2018-05-29 16:43:22 ....A       992116               DBw/EazySubs_Part1DB.txt.xz
+2018-05-29 16:43:54 ....A      9562913               DBw/Enhance (1).sql
+2018-05-29 16:43:52 ....A      5840155               DBw/ErisiumForum.7z
+2018-05-29 16:54:11 ....A      3184022               DBw/Jaguar Member Tables.sql
+2018-05-29 16:43:56 ....A      6168123               DBw/Forums.LinuxMint.com_phpbb_February_2016.txt.7z
+2018-05-29 16:54:05 ....A       160682               DBw/ImageData.dat
+2018-05-29 16:43:40 ....A        47461               DBw/GameNex.us.sql
+2018-05-29 16:43:54 ....A      1416329               DBw/Habbo USA DB (Aka The 30K).rtf
+2018-05-29 16:44:32 ....A     20795953               DBw/Hostinger Hacked.7z
+2018-05-29 16:44:11 ....A      5039692               DBw/Hypergen.ch DB 5.18.16.sql
+2018-05-29 17:09:22 ....A       136475               DBw/accountsupplier.com db.sql
+2018-05-29 17:10:24 ....A       658552               DBw/astropid_users.sql.xz
+2018-05-29 16:54:29 ....A     37981898               DBw/Kryptonic.7z
+2018-05-29 16:58:51 ....A     19890648               DBw/MyRepoSpace.7z
+2018-05-29 16:56:35 ....A       187179               DBw/LizardSquad_Stresser.7z
+2018-05-29 17:09:36 ....A      6961472               DBw/aha-userForums.csv.xz
+2018-05-29 13:48:46 ....A        64973               DBw/100k_email_fb.txt.gz
+2018-05-29 13:48:44 ....A         1838               DBw/10.txt.gz
+2018-05-29 13:48:53 ....A     16263238               DBw/1000000 yandex.txt.gz
+2018-05-29 14:01:38 ....A     32544874               DBw/PS3Hax.net.txt.gz
+2018-05-29 13:48:48 ....A        64966               DBw/100kfb.txt.gz
+2018-05-29 13:48:50 ....A      3375460               DBw/100kmsnliveoutlook.txt.gz
+2018-05-29 13:48:50 ....A       920229               DBw/10K Users.sql.gz
+2018-05-29 13:48:50 ....A         3377               DBw/12.txt.gz
+2018-05-29 13:48:54 ....A      1599059               DBw/120K_Combo_List_Steam__PSN.txt.gz
+2018-05-29 13:48:54 ....A         6119               DBw/13.txt.gz
+2018-05-29 13:48:58 ....A      2316742               DBw/1337-crew_members.txt.gz
+2018-05-29 13:48:58 ....A       307209               DBw/1394store.com.txt.gz
+2018-05-29 13:49:02 ....A        48453               DBw/212booter.sql.gz
+2018-05-29 13:49:00 ....A         7285               DBw/2.txt.gz
+2018-05-29 13:49:01 ....A         2444               DBw/212-booter.net-2013-07-19.txt.gz
+2018-05-29 13:49:42 ....A       911343               DBw/Abusewith.us DB Lookup - aae.txt.gz
+2018-05-29 13:49:22 ....A         1936               DBw/9.txt.gz
+2018-05-29 13:49:06 ....A      2339254               DBw/36k member.csv.gz
+2018-05-29 13:49:06 ....A         3586               DBw/4.txt.gz
+2018-05-29 13:49:41 ....A     49436231               DBw/4000000 Mail.ru.txt.gz
+2018-05-29 13:49:21 ....A     11111969               DBw/4privatedbs.txt.gz
+2018-05-29 13:49:11 ....A         9679               DBw/5.txt.gz
+2018-05-29 13:49:16 ....A       639086               DBw/6-3-2012-loungeboard.net.sql.gz
+2018-05-29 13:49:17 ....A       639090               DBw/6-3-2012-loungeboard.net.sql.txt.gz
+2018-05-29 13:49:19 ....A         1958               DBw/6.txt.gz
+2018-05-29 13:49:20 ....A         4561               DBw/8.txt.gz
+2018-05-29 13:49:22 ....A        17804               DBw/8teenxxx.com .txt.gz
+2018-05-29 13:49:26 ....A       153278               DBw/AMNH.org .txt.gz
+2018-05-29 13:49:23 ....A        23021               DBw/99Fame.com .txt.gz
+2018-05-29 13:49:31 ....A      6535876               DBw/ALLMERGERaccounts.txt.gz
+2018-05-29 13:49:38 ....A     13663522               DBw/ALLSHAN.txt.gz
+2018-05-29 13:49:27 ....A       130116               DBw/AWT-GPI.com .txt.gz
+2018-05-29 13:49:38 ....A      1044326               DBw/Abusewith.us DB Lookup - .nl.txt.gz
+2018-05-29 13:49:38 ....A       905629               DBw/Abusewith.us DB Lookup - Jam.txt.gz
+2018-05-29 13:49:41 ....A       941617               DBw/Abusewith.us DB Lookup - aab.txt.gz
+2018-05-29 13:49:41 ....A      1004629               DBw/Abusewith.us DB Lookup - aac.txt.gz
+2018-05-29 13:50:10 ....A        36966               DBw/Abusewith.us DB Lookup - aau.txt.gz
+2018-05-29 13:49:43 ....A        53840               DBw/Abusewith.us DB Lookup - aai.txt.gz
+2018-05-29 13:49:46 ....A        53840               DBw/Abusewith.us DB Lookup - aai (1).txt.gz
+2018-05-29 13:52:57 ....A      1174416               DBw/Abusewith.us DB Lookup - abb.txt.gz
+2018-05-29 13:49:51 ....A        40909               DBw/Abusewith.us DB Lookup - aaj.txt.gz
+2018-05-29 13:49:53 ....A       117416               DBw/Abusewith.us DB Lookup - aak.txt.gz
+2018-05-29 13:49:53 ....A       185858               DBw/Abusewith.us DB Lookup - aal.txt.gz
+2018-05-29 13:49:53 ....A       102502               DBw/Abusewith.us DB Lookup - aam.txt.gz
+2018-05-29 13:50:07 ....A        35974               DBw/Abusewith.us DB Lookup - aaq.txt.gz
+2018-05-29 13:50:08 ....A       476794               DBw/Abusewith.us DB Lookup - aar.txt.gz
+2018-05-29 13:50:09 ....A       188087               DBw/Abusewith.us DB Lookup - aas.txt.gz
+2018-05-29 13:50:10 ....A       111117               DBw/Abusewith.us DB Lookup - aat.txt.gz
+2018-05-29 13:50:11 ....A        54330               DBw/Abusewith.us DB Lookup - aav.txt.gz
+2018-05-29 13:50:12 ....A        42156               DBw/Abusewith.us DB Lookup - aaw.txt.gz
+2018-05-29 14:18:39 ....A      5858433               DBw/cristalix.ru_72.8k.csv
+2018-05-29 13:50:14 ....A        35578               DBw/Abusewith.us DB Lookup - aax.txt.gz
+2018-05-29 13:50:33 ....A     16884373               DBw/TheNoobBot.zip
+2018-05-29 13:52:58 ....A      1075554               DBw/Abusewith.us DB Lookup - abd.txt.gz
+2018-05-29 13:52:57 ....A       977754               DBw/Abusewith.us DB Lookup - abc.txt.gz
+2018-05-29 13:56:19 ....A    290470928               DBw/CreditCardTransactions.7z
+2018-05-29 13:53:00 ....A       900254               DBw/Abusewith.us DB Lookup - abf.txt.gz
+2018-05-29 13:53:00 ....A        36018               DBw/Abusewith.us DB Lookup - abg.txt.gz
+2018-05-29 13:53:07 ....A       496903               DBw/Abusewith.us DB Lookup - abo.txt.gz
+2018-05-29 13:53:02 ....A       489613               DBw/Abusewith.us DB Lookup - abi.txt.gz
+2018-05-29 13:53:02 ....A        33534               DBw/Abusewith.us DB Lookup - abj.txt.gz
+2018-05-29 13:53:05 ....A        43585               DBw/Abusewith.us DB Lookup - abk.txt.gz
+2018-05-29 13:53:06 ....A        37888               DBw/Abusewith.us DB Lookup - abm.txt.gz
+2018-05-29 13:53:06 ....A        54102               DBw/Abusewith.us DB Lookup - abn.txt.gz
+2018-05-29 13:53:21 ....A       287390               DBw/Abusewith.us DB Lookup - abu.txt.gz
+2018-05-29 13:53:08 ....A        34562               DBw/Abusewith.us DB Lookup - abp.txt.gz
+2018-05-29 13:53:09 ....A        23990               DBw/Abusewith.us DB Lookup - abq.txt.gz
+2018-05-29 13:53:09 ....A       373112               DBw/Abusewith.us DB Lookup - abr.txt.gz
+2018-05-29 13:53:11 ....A       176579               DBw/Abusewith.us DB Lookup - abs.txt.gz
+2018-05-29 13:53:21 ....A        71941               DBw/Abusewith.us DB Lookup - abv.txt.gz
+2018-05-29 13:53:25 ....A       109248               DBw/Abusewith.us DB Lookup - aim.txt.gz
+2018-05-29 13:53:22 ....A        30653               DBw/Abusewith.us DB Lookup - abw.txt.gz
+2018-05-29 13:53:22 ....A        23797               DBw/Abusewith.us DB Lookup - abx.txt.gz
+2018-05-29 13:53:23 ....A       446076               DBw/Abusewith.us DB Lookup - aby.txt.gz
+2018-05-29 13:53:24 ....A        42673               DBw/Abusewith.us DB Lookup - abz.txt.gz
+2018-05-29 13:53:26 ....A      2894655               DBw/Abusewith.us DB Lookup - aol.txt.gz
+2018-05-29 13:53:28 ....A      3771127               DBw/Abusewith.us DB Lookup - co.uk.txt.gz
+2018-05-29 13:53:59 ....A      1085855               DBw/Arteropk.com_plain_April_2015.txt.gz
+2018-05-29 13:53:30 ....A       310023               DBw/Abusewith.us DB Lookup - googlemail.txt.gz
+2018-05-29 13:53:58 ....A     11484360               DBw/Abusewith.us DB Lookup - yahoo.txt.gz
+2018-05-29 13:53:59 ....A      2486487               DBw/AnonJDB.sql.gz
+2018-05-29 13:54:14 ....A      1906124               DBw/BuzzMachines.com .txt.gz
+2018-05-29 13:54:02 ....A       180138               DBw/Asus UK .txt.gz
+2018-05-29 13:54:08 ....A        92477               DBw/Awesome%20Forums%20DB.txt.gz
+2018-05-29 13:54:10 ....A       143401               DBw/Best of MC Database.txt.gz
+2018-05-29 13:54:39 ....A         6216               DBw/Cloudstresser.sql.gz
+2018-05-29 13:54:15 ....A       625385               DBw/CMDBooter.sql.txt.gz
+2018-05-29 13:54:15 ....A       142759               DBw/CMDBooter.txt.gz
+2018-05-29 13:54:17 ....A        92491               DBw/CVV2.su .sql.gz
+2018-05-29 13:54:18 ....A       917156               DBw/Carders.cc Users.txt.gz
+2018-05-29 13:54:34 ....A          215               DBw/Cloudexity Admin .txt.gz
+2018-05-29 13:54:48 ....A         3040               DBw/Curetools.sql.gz
+2018-05-29 13:54:40 ....A        61879               DBw/CodeCommunity.sql.gz
+2018-05-29 13:54:41 ....A        61884               DBw/Codecommunity.com .sql.gz
+2018-05-29 13:54:43 ....A         3653               DBw/Controlbooter.sql.txt.gz
+2018-05-29 13:54:44 ....A        37936               DBw/CorruptStresser.sql.gz
+2018-05-29 13:54:50 ....A      6634778               DBw/CrackingForum.txt.gz
+2018-05-29 13:54:54 ....A       370378               DBw/DamnSmallLinux%20Forum.txt.gz
+2018-05-29 13:58:08 ....A      1144693               DBw/EazySubs_Part1DB.txt.gz
+2018-05-29 13:55:15 ....A        11131               DBw/FYLparticipants.txt.gz
+2018-05-29 13:55:00 ....A         7002               DBw/Duelyst.com.txt.gz
+2018-05-29 13:55:29 ....A       625622               DBw/Dump-coldsi_support-2013-07-31.sql.gz
+2018-05-29 13:55:32 ....A      1797909               DBw/Dump-diverseb_forum31-2013-06-28.sql.gz
+2018-05-29 13:55:38 ....A      4567033               DBw/Dump-win7vist_forum-2013-09-03.sql.gz
+2018-05-29 13:57:23 ....A      1312652               DBw/Differencegames.com.txt.gz
+2018-05-29 13:57:18 ....A        15829               DBw/DeathStresser.txt.gz
+2018-05-29 13:57:24 ....A     11092264               DBw/Delicious_Takoyaki.txt.gz
+2018-05-29 13:58:33 ....A      1456575               DBw/GMAILSUSclean.txt.gz
+2018-05-29 13:57:23 ....A         5934               DBw/Digginclips.com.txt.gz
+2018-05-29 13:58:09 ....A       928066               DBw/EazySubs_Part2DB.txt.gz
+2018-05-29 13:58:13 ....A      2205300               DBw/EnhanceViews_com_VB_4-Sept-2013_sql.txt.gz
+2018-05-29 13:58:10 ....A        65863               DBw/Educacionquimica.info.txt.gz
+2018-05-29 13:58:11 ....A       276457               DBw/Elitedev_user_DUMP.sql.gz
+2018-05-29 13:58:18 ....A        11131               DBw/FYLparticipants (1).txt.gz
+2018-05-29 13:58:14 ....A       251016               DBw/EnigmaGroup.org.sql.gz
+2018-05-29 13:58:15 ....A       243310               DBw/EnigmaGroup.org2.sql.gz
+2018-05-29 13:58:16 ....A        57752               DBw/Eshet.net .txt.gz
+2018-05-29 13:58:19 ....A         2937               DBw/Fbiyt.txt.gz
+2018-05-29 13:58:23 ....A       877329               DBw/Forum.tomopop.com_vb_May_2015.sql.gz
+2018-05-29 13:58:24 ....A         9269               DBw/Forumptd.com.txt.gz
+2018-05-29 13:58:29 ....A         1437               DBw/Freescience.info.txt.gz
+2018-05-29 13:58:32 ....A      1456581               DBw/GMAILSUSclean.txt.1.txt.gz
+2018-05-29 13:59:16 ....A       510648               DBw/Hawkingtech.com .txt.gz
+2018-05-29 13:58:33 ....A       404345               DBw/GTA5Base.com .txt.gz
+2018-05-29 13:58:48 ....A      1226232               DBw/Global-RS.txt.1
+2018-05-29 13:58:35 ....A          496               DBw/GalaxyBooter .txt.gz
+2018-05-29 13:58:36 ....A          496               DBw/Galaxy_Booter.txt.gz
+2018-05-29 13:58:38 ....A        11819               DBw/Galaxybooter .sql.gz
+2018-05-29 13:58:44 ....A         6792               DBw/GameNex.us.sql.gz
+2018-05-29 13:58:47 ....A       470062               DBw/Ghostmarket.com.sql.gz
+2018-05-29 13:59:27 ....A       177586               DBw/IChatAsia.txt.gz
+2018-05-29 13:58:50 ....A       594612               DBw/Global-RS.txt.gz
+2018-05-29 13:58:52 ....A          428               DBw/Groundservers.txt.gz
+2018-05-29 13:59:03 ....A     33047772               DBw/HabboSt.txt.gz
+2018-05-29 13:58:56 ....A       908134               DBw/HackDiscussion.com.sql.gz
+2018-05-29 13:59:02 ....A       152981               DBw/HackersNation.sql.gz
+2018-05-29 13:59:10 ....A       201043               DBw/Hacker.org.txt.gz
+2018-05-29 13:59:26 ....A      6306069               DBw/Hotmailsbizopjan.txt.gz
+2018-05-29 13:59:23 ....A          204               DBw/Housingkp.gov.pk .txt.gz
+2018-05-29 13:59:29 ....A        10925               DBw/II_Emails_&_IP.txt.gz
+2018-05-29 13:59:30 ....A        17686               DBw/IPList.txt.gz
+2018-05-29 13:59:29 ....A      1507375               DBw/IChatUsa.txt.gz
+2018-05-29 14:00:40 ....A     24854615               DBw/MyRepoSpace.sql.gz
+2018-05-29 13:59:38 ....A        10920               DBw/India Inc.txt.gz
+2018-05-29 13:59:39 ....A       295819               DBw/Jaguar Member Tables.sql.gz
+2018-05-29 13:59:41 ....A         9853               DBw/Jinr.ru .txt.gz
+2018-05-29 13:59:49 ....A        22686               DBw/Lenovo.txt.gz
+2018-05-29 13:59:42 ....A          412               DBw/July 12th.txt.gz
+2018-05-29 13:59:44 ....A      2034406               DBw/Kakas.txt.gz
+2018-05-29 13:59:44 ....A       498305               DBw/Keepyourlinks.com.txt.gz
+2018-05-29 13:59:45 ....A         1726               DBw/Kontur55.com.txt.gz
+2018-05-29 13:59:46 ....A         4576               DBw/LB_Email_IP.txt.gz
+2018-05-29 13:59:48 ....A       179777               DBw/Laptopmania.txt.gz
+2018-05-29 13:59:55 ....A          129               DBw/Lunagang.txt.gz
+2018-05-29 13:59:52 ....A      1163762               DBw/List.txt.gz
+2018-05-29 13:59:52 ....A         3675               DBw/LivingsLegendsUSEREMAIL.txt.gz
+2018-05-29 13:59:54 ....A         6427               DBw/Lottoland.dk.txt.gz
+2018-05-29 13:59:56 ....A        13757               DBw/M-Cuture.gov.dz.txt.gz
+2018-05-29 13:59:59 ....A      1789998               DBw/MacTorrents.txt.gz
+2018-05-29 13:59:57 ....A         5824               DBw/MTIScape.txt.gz
+2018-05-29 14:00:08 ....A      1192480               DBw/Merdb.cn DUMP.txt.gz
+2018-05-29 13:59:59 ....A       152535               DBw/Mail.ru.txt.gz
+2018-05-29 14:00:00 ....A        60447               DBw/MangaTrader.txt.gz
+2018-05-29 14:00:01 ....A        40290               DBw/Masterworld.org .txt.gz
+2018-05-29 14:00:02 ....A         1356               DBw/Matt258 RS Board.txt.gz
+2018-05-29 14:00:04 ....A       949846               DBw/Mavic mp3.txt.gz
+2018-05-29 14:00:06 ....A           38               DBw/Mayhem Makers.txt.gz
+2018-05-29 14:00:07 ....A       314134               DBw/Mega-Torrent.ru.txt.gz
+2018-05-29 14:00:10 ....A      2220248               DBw/Minecraft Pocket Edition Forum.txt.gz
+2018-05-29 14:00:14 ....A        29338               DBw/Mmamembers.sql.gz
+2018-05-29 14:00:17 ....A       363391               DBw/More Databases.txt.gz
+2018-05-29 14:00:16 ....A       540226               DBw/More DBS.txt.gz
+2018-05-29 14:00:23 ....A     13856800               DBw/Mpgh.txt.gz
+2018-05-29 14:00:21 ....A          237               DBw/MustBeMedia.txt.gz
+2018-05-29 14:00:35 ....A        27534               DBw/NVD_USERS
+2018-05-29 14:00:38 ....A        27534               DBw/NVD_USERS.1
+2018-05-29 14:00:31 ....A        26718               DBw/NBALiveLeague.com.txt.gz
+2018-05-29 14:00:33 ....A         9181               DBw/NSCHE.org.ng .txt.gz
+2018-05-29 14:00:41 ....A       109489               DBw/Nabi-India.txt.gz
+2018-05-29 14:01:31 ....A         1033               DBw/Paradie Stresser.txt.gz
+2018-05-29 14:00:50 ....A          115               DBw/Nulled Stresser.txt.gz
+2018-05-29 14:00:43 ....A       201960               DBw/National-Stresser.txt.gz
+2018-05-29 14:00:44 ....A        20705               DBw/Naughtylounge_nal_user_03_14_2016.sql.gz
+2018-05-29 14:00:45 ....A       460158               DBw/Ncsa.illinois.edu.txt.gz
+2018-05-29 14:00:46 ....A        70787               DBw/NetStress.txt.gz
+2018-05-29 14:00:47 ....A        43441               DBw/NitroBooter.txt.gz
+2018-05-29 14:00:49 ....A       704545               DBw/North Dakota Bank Logs.txt.gz
+2018-05-29 14:00:56 ....A      2121086               DBw/Nute UFSC Br.txt.gz
+2018-05-29 14:00:59 ....A      1482445               DBw/Ohio.gov.txt.gz
+2018-05-29 14:00:59 ....A          174               DBw/OnlineCares.txt.gz
+2018-05-29 14:01:00 ....A        79643               DBw/OnlyUsers.txt.gz
+2018-05-29 14:01:01 ....A        15476               DBw/Oude Rsnl.txt.gz
+2018-05-29 14:01:24 ....A       693841               DBw/Oursportscentral.com.txt.gz
+2018-05-29 14:01:26 ....A       515981               DBw/PERCH CMS.txt.gz
+2018-05-29 14:01:46 ....A        29774               DBw/Phantom-Stresser.net 2013-08-16.txt.gz
+2018-05-29 14:02:05 ....A        39991               DBw/Rage Booter's Database Dump.sql.gz
+2018-05-29 14:01:37 ....A        97989               DBw/Palestine Weekly.txt.gz
+2018-05-29 14:01:45 ....A        29759               DBw/Phantom Stresser.txt.gz
+2018-05-29 14:01:47 ....A        18805               DBw/Phishing Hijacks.txt.gz
+2018-05-29 14:01:56 ....A       102455               DBw/Plastic4you.ru Forum.txt.gz
+2018-05-29 14:01:48 ....A        19975               DBw/Phoenix Knights.sql.gz
+2018-05-29 14:01:55 ....A         5122               DBw/PirateStresser_users_2013_08_13.txt.gz
+2018-05-29 14:01:57 ....A        51348               DBw/Provisional Companies .txt.gz
+2018-05-29 14:02:20 ....A       341041               DBw/SEA.txt.gz
+2018-05-29 14:02:01 ....A      2982766               DBw/QuantumStresser.txt.gz
+2018-05-29 14:02:01 ....A         3775               DBw/RS-BlackKnights DB.txt.gz
+2018-05-29 14:02:03 ....A         3771               DBw/RSBlackknights.txt.gz
+2018-05-29 14:02:11 ....A       299359               DBw/RuneHQ DB Decrypted.txt.gz
+2018-05-29 14:02:06 ....A        30298               DBw/Random DB of AFD SAXONY.txt.gz
+2018-05-29 14:02:10 ....A      2158729               DBw/Random_gaming_forums_(50k).txt.gz
+2018-05-29 14:02:09 ....A        14070               DBw/RealExpose.com.txt.gz
+2018-05-29 14:02:12 ....A       263906               DBw/RuneHQDecypted.txt.gz
+2018-05-29 14:02:14 ....A        19083               DBw/RuneHints.txt.gz
+2018-05-29 14:02:15 ....A        13912               DBw/RunePlanet DB.txt.gz
+2018-05-29 14:02:17 ....A       468747               DBw/Runescape Community.txt.gz
+2018-05-29 14:02:20 ....A       468747               DBw/Runescape_Community.txt.gz
+2018-05-29 14:02:21 ....A       223506               DBw/SEA_user_table.txt.gz
+2018-05-29 14:02:22 ....A        12417               DBw/SEA_users_old_info_table.txt.gz
+2018-05-29 14:02:26 ....A     11029504               DBw/STAGING.sqlite3
+2018-05-29 14:02:26 ....A        87995               DBw/ServCPPS_users_2012-07-10.txt.gz
+2018-05-29 14:02:29 ....A       633224               DBw/Sexavet.txt.gz
+2018-05-29 14:02:36 ....A          186               DBw/Sharkservers.txt.gz
+2018-05-29 14:02:55 ....A     43861613               DBw/Snapchat SQL.sql.gz
+2018-05-29 14:02:54 ....A       109332               DBw/SoulSplit (2).txt.gz
+2018-05-29 14:02:46 ....A       168094               DBw/Sony_Pictures_International_AUTOTRADER_USERS.txt.gz
+2018-05-29 14:02:49 ....A       270111               DBw/Sony_Pictures_International_BEAUTY_USERS.txt.gz
+2018-05-29 14:02:50 ....A       234381               DBw/Sony_Pictures_International_DELBOCA_USERS.txt.gz
+2018-05-29 14:02:52 ....A       141004               DBw/SoulSplit (1).txt.gz
+2018-05-29 14:03:32 ....A        23451               DBw/Top100Arena.txt.gz
+2018-05-29 14:03:00 ....A          187               DBw/SoulSplit (6).txt.gz
+2018-05-29 14:02:56 ....A        16356               DBw/SoulSplit (4).txt.gz
+2018-05-29 14:03:00 ....A      6495150               DBw/SoulSplit (5).txt.gz
+2018-05-29 14:03:18 ....A       352159               DBw/Symantec.txt.gz
+2018-05-29 14:03:01 ....A          536               DBw/SoulSplit (7).txt.gz
+2018-05-29 14:03:03 ....A       230868               DBw/SoulSplit (8).txt.gz
+2018-05-29 14:03:04 ....A         7657               DBw/SoulSplit (9).txt.gz
+2018-05-29 14:03:06 ....A       110171               DBw/Soulsplit.txt.gz
+2018-05-29 14:03:07 ....A         4264               DBw/StealthStresser_2013-09-07_04-43-18.txt.gz
+2018-05-29 14:03:09 ....A         6476               DBw/StealthStresser_Feb_2014.txt.gz
+2018-05-29 14:03:10 ....A         1525               DBw/StealthStresser_Oct_2013.txt.gz
+2018-05-29 14:03:13 ....A        95196               DBw/Stresser.club .txt.gz
+2018-05-29 14:03:14 ....A       137734               DBw/Supreme Skillers.txt.gz
+2018-05-29 14:03:17 ....A       105203               DBw/Superstresser.txt.gz
+2018-05-29 14:03:21 ....A        44996               DBw/Team Influence DB.docx
+2018-05-29 14:03:19 ....A       235838               DBw/TWC BC.txt.gz
+2018-05-29 14:03:30 ....A      1084865               DBw/Tipit2004to2007.txt.gz
+2018-05-29 14:03:22 ....A       234389               DBw/Techfactory.net.txt.gz
+2018-05-29 14:03:27 ....A         5085               DBw/Texas.gov.txt.gz
+2018-05-29 14:03:29 ....A       851516               DBw/Time Warner Cable_ Business Class.sql
+2018-05-29 14:03:36 ....A     14287925               DBw/TopTenHen.sql.gz
+2018-05-29 14:03:36 ....A        56827               DBw/Truboot.sql.gz
+2018-05-29 14:24:57 ....A     39045821               DBw/hotfile.pw.zip
+2018-05-29 14:03:41 ....A         5438               DBw/TotalBooter.net.sql.gz
+2018-05-29 14:03:52 ....A     27656192               DBw/Turkey.7z
+2018-05-29 14:03:48 ....A        64601               DBw/URA.org.txt.gz
+2018-05-29 14:05:03 ....A      9380450               DBw/WildStart database part (7).csv.gz
+2018-05-29 14:03:55 ....A      1049846               DBw/Uefa_Dump.sql.gz
+2018-05-29 14:04:15 ....A       138269               DBw/VanquishRSPS.db.txt.gz
+2018-05-29 14:04:15 ....A         1456               DBw/Verizon Accounts Dump.txt.gz
+2018-05-29 14:04:19 ....A      6162092               DBw/Viphf December 2014.sql.gz
+2018-05-29 14:04:20 ....A      3052252               DBw/Virtual credit cards.txt.gz
+2018-05-29 14:05:11 ....A     87365632               DBw/WAREHOUSE_MAIN.sqlite3
+2018-05-29 14:04:23 ....A        10272               DBw/WarnerBros.txt.gz
+2018-05-29 14:04:35 ....A     10150272               DBw/WildStart database part (1).csv.gz
+2018-05-29 14:04:42 ....A     10181904               DBw/WildStart database part (2).csv.gz
+2018-05-29 14:04:51 ....A     10347257               DBw/WildStart database part (3).csv.gz
+2018-05-29 14:04:51 ....A     10341191               DBw/WildStart database part (4).csv.gz
+2018-05-29 14:05:12 ....A         2560               DBw/acties.csv.gz
+2018-05-29 14:04:55 ....A      4376914               DBw/WildStart database part (6).csv.gz
+2018-05-29 14:04:54 ....A         1254               DBw/Yealmu3a.org.uk.txt.gz
+2018-05-29 14:05:05 ....A      9945813               DBw/WildStart database part (8).csv.gz
+2018-05-29 14:04:52 ....A        21199               DBw/XZ Utils.docx
+2018-05-29 14:04:58 ....A         3871               DBw/Ziotic DB.txt.gz
+2018-05-29 14:04:56 ....A        11580               DBw/Yelaw.net.txt.gz
+2018-05-29 14:14:25 ....A        51150               DBw/StaticPrison_Buycraft_Logs_260.csv
+2018-05-29 14:05:02 ....A       150392               DBw/Zoo-sextube.com.txt.gz
+2018-05-29 14:05:03 ....A        31334               DBw/[db_leak]http---append-hc.com_database_leaked_[db_leak].txt.gz
+2018-05-29 14:05:07 ....A       234556               DBw/acme.in.txt.gz
+2018-05-29 14:05:15 ....A          762               DBw/admin_users.csv.gz
+2018-05-29 14:05:47 ....A        59351               DBw/Aus-Craft.net_Emails_DB.csv
+2018-05-29 14:05:53 ....A       417622               DBw/AviatorCraft_Buycraft_Logs_2.2k.csv
+2018-05-29 14:06:00 ....A       532988               DBw/Best of MC Database.csv
+2018-05-29 14:06:02 ....A       477083               DBw/Blockedup_Emails_DB.csv
+2018-05-29 14:06:05 ....A        26949               DBw/Blockmadness.com_Buycraft_DB.csv
+2018-05-29 14:06:11 ....A         5377               DBw/ChromeMC_Buycraft_DB.csv
+2018-05-29 14:06:23 ....A       376222               DBw/DBZ MINECRAFT ACC'S.csv
+2018-05-29 14:06:27 ....A         8111               DBw/DarkFadePvP_Buycraft_Logs_30.csv
+2018-05-29 14:06:29 ....A        30249               DBw/DatPixel_Emails_DB.csv
+2018-05-29 14:06:37 ....A       272675               DBw/EmpireMinecraft_Emails_DB.csv
+2018-05-29 14:06:46 ....A       207439               DBw/EscapeRestart.com_Emails_DB.csv
+2018-05-29 14:10:05 ....A         1371               DBw/Intelyc_E-Mails_40.csv
+2018-05-29 17:04:21 ....A        96719               DBw/Phoenix Knights.sql
+2018-05-29 14:10:40 ....A        28205               DBw/RSMV_Buycraft_Logs_120.csv
+2018-05-29 14:11:00 ....A       202892               DBw/Scumbags Teamspeak 2.3k (1).csv
+2018-05-29 14:23:19 ....A     39662279               DBw/MEGA.zip
+2018-05-29 14:14:28 ....A        20383               DBw/Swansons Teamspeak.csv
+2018-05-29 14:14:51 ....A      2426546               DBw/VeltPvP_IPs_35k.csv
+2018-05-29 14:15:02 ....A        18415               DBw/VortexMC_Buycraft_DB.csv
+2018-05-29 17:23:37 ....A        34004               DBw/lbattleDB.sql
+2018-05-29 14:18:44 ....A       232087               DBw/distanymc.eu.csv
+2018-05-29 14:18:46 ....A       196330               DBw/fadehost.com_2.9k.csv
+2018-05-29 14:18:56 ....A      2112256               DBw/iPvP_IPs_Logs_34k.csv
+2018-05-29 14:19:01 ....A      4603412               DBw/iPvP_PayPal_Logs_13.3k.csv
+2018-05-29 14:19:03 ....A      3243971               DBw/iPvP_PayPal_Logs_9k.csv
+2018-05-29 14:19:25 ....A        32334               DBw/xDSquare_410.csv
+2018-05-29 14:22:42 ....A       116334               DBw/DELTA-STRESSER.XYZ-pt2.zip
+2018-05-29 14:22:43 ....A       230635               DBw/DELTA-STRESSER.XYZ.zip
+2018-05-29 14:22:56 ....A       195399               DBw/ThePirateGame.net.zip
+2018-05-29 14:22:46 ....A       202256               DBw/Habbid.com.br.zip
+2018-05-29 14:23:15 ....A      6722066               DBw/allwomenstalk.com.zip
+2018-05-29 14:22:50 ....A       115603               DBw/NewJerseyherald.zip
+2018-05-29 14:22:54 ....A      2654844               DBw/PayPalSucks2.zip
+2018-05-29 14:22:54 ....A         3725               DBw/ProDz.Tk.zip
+2018-05-29 14:22:57 ....A       132565               DBw/ValidDumps_Cardshop_DB.zip
+2018-05-29 14:23:22 ....A        87433               DBw/bostoncentralchurch.org.zip
+2018-05-29 14:23:06 ....A       468545               DBw/afrikadating.com.zip
+2018-05-29 14:23:12 ....A       269405               DBw/auction-warehouse.com.zip
+2018-05-29 14:24:03 ....A       188611               DBw/equitydevelopment.co.uk.zip
+2018-05-29 14:23:20 ....A       116729               DBw/booter.xyz.zip
+2018-05-29 14:23:30 ....A       148153               DBw/carbootjunction.com.zip
+2018-05-29 14:23:43 ....A       357649               DBw/edtreatmentreview.com.zip
+2018-05-29 14:23:31 ....A       168532               DBw/cardiofitness.de.zip
+2018-05-29 14:23:34 ....A      5619316               DBw/corruptionxparsed.zip
+2018-05-29 14:23:35 ....A      1351063               DBw/cp.legenddn2.net.zip
+2018-05-29 14:23:37 ....A      3443113               DBw/crush007.co.uk.zip
+2018-05-29 14:23:37 ....A       113056               DBw/customers.zeelandia.info.zip
+2018-05-29 14:23:39 ....A      2188417               DBw/deways.com.zip
+2018-05-29 14:23:40 ....A       254776               DBw/dr-mahoud.com.zip
+2018-05-29 14:23:42 ....A        87643               DBw/dvdvalves.com.tr.zip
+2018-05-29 14:23:46 ....A       160200               DBw/emkoelektronik.com.tr.zip
+2018-05-29 14:24:23 ....A       125372               DBw/iceplex.tv.zip
+2018-05-29 14:23:51 ....A        95796               DBw/etchingindustries.com3.zip
+2018-05-29 14:24:40 ....A       444576               DBw/jcm.co.uk.zip
+2018-05-29 14:24:11 ....A      9218159               DBw/fijilive.com.zip
+2018-05-29 14:24:10 ....A       109954               DBw/gforces.co.uk.zip
+2018-05-29 14:25:03 ....A     64201766               DBw/gmail.zip
+2018-05-29 14:24:17 ....A       844813               DBw/golferscard.ae.zip
+2018-05-29 14:24:19 ....A       209626               DBw/hoechsmann.com.zip
+2018-05-29 14:25:31 ....A       183553               DBw/protonradio.com.zip
+2018-05-29 14:24:51 ....A       107823               DBw/louisianashooting.com.zip
+2018-05-29 14:25:51 ....A       945080               DBw/short-fiction.co.uk.zip
+2018-05-29 14:24:38 ....A        94420               DBw/lchudikfyjafhqjj.onion.zip
+2018-05-29 14:24:45 ....A        88903               DBw/lepidoptera.eu.zip
+2018-05-29 14:25:03 ....A       341053               DBw/mupol.es.zip
+2018-05-29 14:24:54 ....A       155305               DBw/mayline.com.zip
+2018-05-29 14:24:56 ....A       173839               DBw/mexx.com2.zip
+2018-05-29 14:24:58 ....A       105026               DBw/miscemailhash.zip
+2018-05-29 14:25:01 ....A       254852               DBw/mp3mixx.com.zip
+2018-05-29 14:25:07 ....A      2103502               DBw/muscularstrength.com - shf_main.shf_members 3.11.2016.zip
+2018-05-29 14:25:45 ....A      6314709               DBw/rainbowshiu.net.zip
+2018-05-29 14:25:07 ....A       262839               DBw/myaribags.com.zip
+2018-05-29 14:25:17 ....A        94547               DBw/navratnabooking.com.zip
+2018-05-29 14:25:29 ....A     13689455               DBw/nownnow.zip
+2018-05-29 14:25:20 ....A       109129               DBw/nu113d.zip
+2018-05-29 14:25:24 ....A       137236               DBw/oVPN.pro.zip
+2018-05-29 14:25:28 ....A       569486               DBw/oscrap.com.zip
+2018-05-29 14:26:50 ....A      3371713               DBw/www-direkt.gema.de_interP1_users_16-07-2011-05-53-34.zip
+2018-05-29 14:25:34 ....A       107213               DBw/ps.missouri.edu.zip
+2018-05-29 14:25:36 ....A       382261               DBw/raas.com.au.zip
+2018-05-29 14:25:45 ....A       118195               DBw/serverler.gen.tr.zip
+2018-05-29 14:25:47 ....A      5301195               DBw/remotestaff.com.au.zip
+2018-05-29 14:25:52 ....A      1669040               DBw/skoolkit.co.uk.zip
+2018-05-29 14:25:53 ....A      1538500               DBw/ssndob.zip
+2018-05-29 14:26:20 ....A       251891               DBw/theaudiodb.com.zip
+2018-05-29 14:26:03 ....A      6034005               DBw/ssorganized.zip
+2018-05-29 14:26:13 ....A      1811081               DBw/taptoeat.com.txt.zip
+2018-05-29 14:26:18 ....A        88470               DBw/theatrhall.com.zip
+2018-05-29 14:26:25 ....A     10068426               DBw/thebotnet.zip
+2018-05-29 14:26:23 ....A       192307               DBw/tools.movatiathletic.com.zip
+2018-05-29 14:26:31 ....A        88398               DBw/userhash.zip
+2018-05-29 14:26:29 ....A       538566               DBw/user-db.zip
+2018-05-29 14:26:33 ....A        82871               DBw/vipertrader.com.zip
+2018-05-29 16:56:39 ....A        27772               DBw/MCLeaks.net_plain_2016-11.txt.7z
+2018-05-29 14:26:53 ....A        77167               DBw/yazmalar.gov.tr.zip
+2018-05-29 16:58:38 ....A       380105               DBw/Mmamembers.sql
+2018-05-29 17:00:57 ....A        27534               DBw/NVD_USERS (1)
+2018-05-29 14:26:58 ....A       127826               DBw/zoomaru.zip
+2018-05-29 16:56:39 ....A       380261               DBw/MMA Member Tables.sql
+2018-05-29 14:39:35 ....A       100362               DBw/000003.log
+2018-05-29 17:01:04 ....A       184632               DBw/Naughtylounge_nal_user_03_14_2016.sql
+2018-05-29 17:04:45 ....A     28150660               DBw/Plex.tv.csv
+2018-05-29 17:25:37 ....A     23031702               DBw/mangatraders.sql
+2018-05-29 17:09:19 ....A      1545500               DBw/XRForums.net_Users_Summer_2011.sql
+2018-05-29 17:04:34 ....A      1063479               DBw/RecklessNetwork_Users.sql
+2018-05-29 17:04:35 ....A       866444               DBw/Roblox.zip
+2018-05-29 17:04:53 ....A       851516               DBw/Time Warner Cable_ Business Class (1).sql
+2018-05-29 17:04:54 ....A       181616               DBw/Truboot.sql
+2018-05-29 17:05:03 ....A      7143467               DBw/Vodaphone_2013 v2.7z
+2018-05-29 17:09:30 ....A       377132               DBw/aircraftonline.rar
+2018-05-29 17:10:18 ....A          459               DBw/apexbooter.com-2013-07-19.txt.xz
+2018-05-29 17:09:24 ....A          762               DBw/admin_users_opuslogica.com.csv.gz
+2018-05-29 17:09:22 ....A      5886051               DBw/XZ Utils.7z
+2018-05-29 17:10:28 ....A          547               DBw/awknet_users.db.xz
+2018-05-29 17:09:38 ....A     16398128               DBw/aha-user.csv.xz
+2018-05-29 17:14:34 ....A      2511612               DBw/dump_p-www-direkt.gema.de_interP1_users_16-07-2011-05-53-34.sql.xz
+2018-05-29 17:10:21 ....A          527               DBw/assetgateway_admin.db.xz
+2018-05-29 17:09:33 ....A      2115154               DBw/ambru.nl.7z
+2018-05-29 17:09:35 ....A      1202176               DBw/anon-hackers.com_members_MySQL.sql.xz
+2018-05-29 17:10:31 ....A      1983512               DBw/bcwars.com_march_2011_tblUsers.sql.xz
+2018-05-29 17:10:20 ....A        78795               DBw/asset.sql
+2018-05-29 17:10:25 ....A       720160               DBw/asylum.db.xz
+2018-05-29 17:10:27 ....A          311               DBw/awknet_admin.db.xz
+2018-05-29 17:13:56 ....A     74832655               DBw/demonforums.sql
+2018-05-29 17:10:29 ....A     10704419               DBw/awesomeforums.sql
+2018-05-29 17:11:53 ....A      1127772               DBw/calculatedchaos.com.sql.xz
+2018-05-29 17:11:50 ....A     12744544               DBw/boxee.tv.sql.xz
+2018-05-29 17:10:34 ....A        33005               DBw/black.sql
+2018-05-29 17:17:21 ....A        79243               DBw/ilink.ph.sql
+2018-05-29 17:13:18 ....A      2936644               DBw/catiewayne.com_usr.sql.xz
+2018-05-29 17:13:20 ....A        33276               DBw/cloudexity_users.db.xz
+2018-05-29 17:13:19 ....A          267               DBw/cloudexity_admin.db.xz
+2018-05-29 17:15:08 ....A      6169504               DBw/forumcore.sql.xz
+2018-05-29 17:16:25 ....A       115066               DBw/hostbooter.sql
+2018-05-29 17:13:24 ....A      2278524               DBw/cvps.sql.xz
+2018-05-29 17:13:23 ....A      2150887               DBw/customer_20161017_153815.csv
+2018-05-29 17:13:35 ....A       396716               DBw/divination.txt.xz
+2018-05-29 17:13:24 ....A        76048               DBw/cvv2.su_2010_12_29_10_15_PM.sql.xz
+2018-05-29 17:13:25 ....A        83821               DBw/cyberdb.sql
+2018-05-29 17:13:42 ....A     33131343               DBw/dadapic.7z
+2018-05-29 17:13:28 ....A        83803               DBw/darkbooter.sql
+2018-05-29 17:13:33 ....A      1316580               DBw/de.Streamscene.cc_jan_2012_users.txt.xz
+2018-05-29 17:16:03 ....A      7072768               DBw/forumvol_voltedipb_2013_08_04_16_27.sql.xz
+2018-05-29 17:19:34 ....A     16221036               DBw/inattack user table.sql
+2018-05-29 17:14:31 ....A       561704               DBw/dregionc_forum_user.sql.xz
+2018-05-29 17:14:36 ....A      1730052               DBw/dump_www.deathlysouls.com_deathlys_vb_19-03-2012-09-22-48.sql.xz
+2018-05-29 17:16:25 ....A      8697598               DBw/hexui.7z
+2018-05-29 17:14:38 ....A       141416               DBw/fadehost_users.db.xz
+2018-05-29 17:14:40 ....A      1174660               DBw/fiestafan_users.sql.xz
+2018-05-29 17:15:10 ....A      2149748               DBw/forumkorner_users.sql.xz
+2018-05-29 17:14:40 ....A         1047               DBw/firecsgo.ru.7z
+2018-05-29 17:16:16 ....A        42466               DBw/hazardst_stress.sql
+2018-05-29 17:16:33 ....A     46679669               DBw/ga.sql
+2018-05-29 17:16:09 ....A       191300               DBw/gamephics_users_formatted_2013_01_06_11_42.sql.xz
+2018-05-29 17:16:10 ....A         8664               DBw/gamingdeluxe-forum-2016.sql
+2018-05-29 17:16:11 ....A      3226136               DBw/gamesbites.com 26-09-2012-01-04-57.sql.xz
+2018-05-29 17:16:36 ....A     28102004               DBw/gawker_full_db.log.xz
+2018-05-29 17:16:14 ....A      1235220               DBw/gamingradio.net.sql.xz
+2018-05-29 17:16:26 ....A          483               DBw/hostclub_admin.db
+2018-05-29 17:31:07 ....A        87448               DBw/panicstresser.sql
+2018-05-29 17:17:15 ....A          298               DBw/hostrealm_admin.db
+2018-05-29 17:16:29 ....A       211883               DBw/hostclub_users.db
+2018-05-29 17:16:27 ....A          439               DBw/hostclub_admin.db.xz
+2018-05-29 17:22:11 ....A       146739               DBw/jaggzscape_phpbb_users.sql
+2018-05-29 17:34:52 ....A        49624               DBw/stagegen.net.sql
+2018-05-29 17:22:04 ....A          438               DBw/ixam_admin.db
+2018-05-29 17:17:15 ....A         3275               DBw/hostrealm_users.db
+2018-05-29 17:17:25 ....A        13572               DBw/imagekorner.sql
+2018-05-29 17:23:36 ....A      8260071               DBw/l33thacking.net_MySQL.sql
+2018-05-29 17:19:45 ....A        16702               DBw/ismilegen.com db(1).sql
+2018-05-29 17:19:46 ....A        16702               DBw/ismilegen.com db.sql
+2018-05-29 17:22:15 ....A        48857               DBw/jaysbooter.sql
+2018-05-29 17:22:12 ....A         1068               DBw/javapipe_admin.db
+2018-05-29 17:22:13 ....A        13271               DBw/javapipe_users.db
+2018-05-29 17:23:47 ....A     11644256               DBw/legion_2013_08_16.sql
+2018-05-29 17:22:22 ....A      2169785               DBw/joomla - db_dump.sql
+2018-05-29 17:23:40 ....A       584608               DBw/leakbase.pw_access.log
+2018-05-29 17:23:55 ....A     13841556               DBw/linked-hosting.christmas_2013_dec25.sql
+2018-05-29 17:34:41 ....A        29568               DBw/rs-ps.org_users_2014-01-25.txt (1).xz
+2018-05-29 17:23:58 ....A     13841556               DBw/linked-hosting.sql
+2018-05-29 17:28:22 ....A        25469               DBw/nyxstresserusers.sql
+2018-05-29 17:25:19 ....A       264531               DBw/lulz_boot_DUMP.sql
+2018-05-29 17:28:01 ....A       879669               DBw/mrjoke.sql
+2018-05-29 17:25:28 ....A       952634               DBw/mcpowerhosting_users.db
+2018-05-29 17:28:00 ....A      2648041               DBw/mohackz_mo_users.sql
+2018-05-29 17:28:07 ....A      2332504               DBw/newrune.sql
+2018-05-29 17:28:02 ....A      4023877               DBw/mtgox_accounts.csv
+2018-05-29 17:28:02 ....A          381               DBw/myvpz_admin.db
+2018-05-29 17:28:12 ....A          787               DBw/nitrohosts_admin.db
+2018-05-29 17:28:10 ....A      6601867               DBw/newseasims.com (120k).7z
+2018-05-29 17:35:50 ....A      9268040               DBw/thebotnet.7z
+2018-05-29 17:28:26 ....A      2412373               DBw/ordering_db.sql
+2018-05-29 17:28:23 ....A         6324               DBw/onionstresser.db
+2018-05-29 17:36:06 ....A         5574               DBw/valegen.link db.sql
+2018-05-29 17:28:26 ....A       527566               DBw/os-scape.com.zip
+2018-05-29 17:34:52 ....A      5141609               DBw/smsbot.zip
+2018-05-29 17:31:23 ....A     27648996               DBw/pardeevillecarshow-2014-02-05.sql
+2018-05-29 17:34:35 ....A         1847               DBw/resistantstresser.net_users.txt.xz
+2018-05-29 17:31:29 ....A     14788115               DBw/projectdream.co.uk-forum.sql
+2018-05-29 17:34:36 ....A        15520               DBw/respawnstresser.db.xz
+2018-05-29 17:34:40 ....A      4958816               DBw/rootkit.com_users_feb_6th_2011.txt.xz
+2018-05-29 17:34:40 ....A          215               DBw/roxservers_admin.db.xz
+2018-05-29 17:34:52 ....A       124244               DBw/staminus-full-data-dump.torrent
+2018-05-29 17:34:44 ....A          363               DBw/shardgaming_admin.db.xz
+2018-05-29 17:34:43 ....A         7684               DBw/sectorin_ddos.sql.xz
+2018-05-29 17:35:00 ....A        20752               DBw/swaggen.com db.sql
+2018-05-29 17:35:06 ....A     11132475               DBw/stress.sql
+2018-05-29 17:36:41 ....A     20710094               DBw/vbulletin.org-sept-2014.txt.7z
+2018-05-29 17:34:58 ....A        12155               DBw/supremeaccounts.com db.sql
+2018-05-30 00:13:44 ....A   1446757824               DBw/neopets_2013_68M.7z
+2018-05-29 17:35:18 ....A     12374298               DBw/sythe.rar
+2018-05-29 17:36:11 ....A       162196               DBw/vigilante.pw.csv
+2018-05-29 17:35:55 ....A     15976134               DBw/turk-internet.7z
+2018-05-29 17:35:51 ....A       444728               DBw/ubers.org_users_09_20_2012.txt.xz
+2018-05-29 17:35:52 ....A        36688               DBw/union-district.cc_Oct_2011.txt.xz
+2018-05-29 17:35:53 ....A       404380               DBw/unique-crew.net_Oct_2011.txt.xz
+2018-05-29 17:35:54 ....A         1411               DBw/uniquegenerator.com db.sql
+2018-05-29 17:36:21 ....A     19891576               DBw/users_repospace.7z
+2018-05-29 17:36:24 ....A     16327262               DBw/utorrent.com_2016.txt.7z
+2018-05-29 17:36:05 ....A         4812               DBw/vStressnew.sql.xz
+2018-05-29 17:36:29 ....A      3553324               DBw/vintage-erotica-forum.com.sql.xz
+2018-05-29 17:36:22 ....A      6331276               DBw/vbteam_users.sql.xz
+2018-05-29 17:36:23 ....A      1155280               DBw/verified.cm_users.sql.xz
+2018-05-29 17:36:16 ....A       135596               DBw/vilayer_users.db.xz
+2018-05-29 17:36:12 ....A          587               DBw/vilayer_admin.db.xz
+2018-05-29 18:42:47 ....A     98443782               DBw/kaixin001.com.7z
+2018-05-29 17:36:31 ....A      3796488               DBw/vpsace_clients_November_2013.sql.xz
+2018-05-29 17:36:14 ....A        40076               DBw/viruzmafia.sql.xz
+2018-05-29 17:36:24 ....A       485693               DBw/vrtalk.com-14-feb-17.sql
+2018-05-29 17:36:23 ....A          215               DBw/wobhosting_admin.db.xz
+2018-05-29 18:25:39 ....A    105118884               DBw/Arma3Life.sql
+2018-05-29 17:36:34 ....A       177480               DBw/xboxlivecodes.co.uk_02-12-2012-08-08-55.sql.xz
+2018-05-29 17:36:43 ....A      3234795               DBw/wolfhacks.sql
+2018-05-29 17:36:39 ....A       730897               DBw/wrestle.sql
+2018-05-29 17:36:41 ....A       460100               DBw/zion-network_users_apr_2011.txt.xz
+2018-05-29 17:37:45 ....A       135596               DBw/vilayer_users.db (1).xz
+2018-05-29 17:37:43 ....A     19891576               DBw/users_repospace (1).7z
+2018-05-29 17:37:37 ....A         4812               DBw/vStressnew.sql (1).xz
+2018-05-29 17:37:45 ....A      1155280               DBw/verified.cm_users.sql (1).xz
+2018-05-29 17:37:45 ....A      6331276               DBw/vbteam_users.sql (1).xz
+2018-05-29 17:37:52 ....A     20710094               DBw/vbulletin.org-sept-2014.txt (1).7z
+2018-05-29 18:21:04 ....A    775184173               DBw/17.Media.rar
+2018-05-29 17:39:02 ....A     32544874               DBw/PS3Hax.net (1).txt.gz
+2018-05-29 18:44:31 ....A   1089324780               DBw/Experian.7z
+2018-05-29 23:20:15 ....A   1773584384               DBw/Ashley_Madison_users.7z
+2018-05-29 18:34:41 ....A    227685739               DBw/xat.7z
+2018-05-29 18:31:57 ....A     42068740               DBw/Libero.it 900k.zip
+2018-05-29 18:37:24 ....A     96631480               DBw/STRATFOR EMAIL HACK.7z
+2018-05-29 18:38:58 ....A     80917457               DBw/Ubisoft.com forum.sql
+2018-05-29 18:41:53 ....A    181536745               DBw/ClixSense.com_2.2M_08_2016.rar
+2018-05-29 19:19:43 ....A    300075885               DBw/000webhost_13mil_plain_Oct_2015.7z
+2018-05-30 12:28:38 ....A   2799583102               DBw/modbsolutions.rar
+2018-05-30 03:37:42 ....A   2594113915               DBw/fling.com_40M_users.sql.7z
+2018-05-30 11:24:00 ....A     21199935               DBw/comcast.7z
+2018-05-29 18:23:17 ....A     19995139               DBw/DayZ.com_Forum.txt
+2018-05-31 14:19:51 ....A    266794656               DBw/178_all.txt
+2018-05-29 16:36:57 ....A       114560               DBw/backcountrytalk.earnyourturns.com-vb-2017.txt
+2018-05-29 16:37:01 ....A       451690               DBw/barcaforum.com-vb-2017.txt
+2018-05-29 16:37:05 ....A       112533               DBw/bdsmfap.com-vb-2017.txt
+2018-05-29 16:37:08 ....A       375682               DBw/birdphotographers.net-vb-2017.txt
+2018-05-29 16:37:19 ....A         5749               DBw/blaze-gaming.net-vb-2017.txt
+2018-06-02 17:12:47 ....A      1540442               DBw/8255409_blog.sql
+2018-06-02 17:18:24 ....A      4510097               DBw/db33272.sql
+2018-06-02 17:18:55 ....A      4181426               DBw/makeni.org.uk.txt
+2018-06-02 17:22:37 ....A     32150726               DBw/greatev6_wrd1.sql
+2018-06-02 17:23:41 ....A       335495               DBw/data.sql
+2018-06-02 17:24:48 ....A       680438               DBw/theme48605.sql
+2018-06-02 17:24:52 ....A       354205               DBw/db_backup_2012-12-18_234109.sql
+2018-06-02 17:24:56 ....A       618648               DBw/vtpeache_wor2zzzz-20130509 - Local.sql
+2018-06-02 17:24:59 ....A       414067               DBw/localhost2.sql
+2018-06-02 17:25:03 ....A      4578604               DBw/1321126317_-_bthrmrpm_newb3m.sql
+2018-06-02 17:25:09 ....A      3440126               DBw/ihdiu_eric_reis.sql
+2018-06-02 17:25:44 ....A       335579               DBw/db_webweb.sql.sql
+2018-06-02 17:25:48 ....A      5316774               DBw/estratg8_wor7.sql
+2018-06-02 17:27:48 ....A       493232               DBw/joomla2.sql
+2018-06-02 17:27:52 ....A       105860               DBw/sample_data.sql
+2018-05-29 16:37:23 ....A       483287               DBw/bleachmyasylum.com-vb-2017.txt
+2018-06-02 17:28:45 ....A       716079               DBw/akivanov_ananny.sql
+2018-06-02 17:29:50 ....A      3512138               DBw/searchcode.sql
+2018-05-29 16:37:26 ....A        37005               DBw/bluepark.co.uk-vb-2017.txt
+2018-06-02 17:30:57 ....A     17509725               DBw/ss_database_backup.sql
+2018-06-02 17:31:29 ....A     23105469               DBw/afaqfood13-7-2016-Fixed.sql
+2018-06-02 17:31:32 ....A       941510               DBw/info3.sql
+2018-05-29 16:37:35 ....A       145408               DBw/board.uscho.com-vb-2017.txt
+2018-06-02 17:31:51 ....A        68002               DBw/db_jooml2a.sql
+2018-05-29 16:37:46 ....A        19374               DBw/callofduty-community.com-vb-2017.txt
+2018-05-29 16:37:50 ....A       450644               DBw/calltermination.com-vb-2017.txt
+2018-05-29 16:37:53 ....A        58111               DBw/campgroundmaster.com-vb-2017.txt
+2018-05-29 16:38:02 ....A       245148               DBw/clan-gameover.com-vb-2017.txt
+2018-05-29 16:38:06 ....A        16580               DBw/clubdbsa.org-vb-2017.txt
+2018-05-29 16:38:13 ....A      1411371               DBw/community.playkot.com-vb-2017.txt
+2018-05-29 16:38:16 ....A       157814               DBw/darkmills.cc-vb-2017.txt
+2018-05-29 16:38:29 ....A      2172328               DBw/divxup.com-vb-2017.txt
+2018-05-29 16:38:35 ....A        50039               DBw/doublefinish.com-vb-2017.txt
+2018-05-29 16:38:39 ....A        60659               DBw/edmlife.com-vb-2017.txt
+2018-05-29 16:38:42 ....A       139359               DBw/eirtakon.com-vb-2017.txt
+2018-05-29 16:38:52 ....A      2799585               DBw/ewebdiscussion.com-vb-2017.txt
+2018-05-29 16:38:54 ....A       103922               DBw/filmleaf.net-vb-2017.txt
+2018-05-29 16:40:07 ....A       645382               DBw/1394store.com.txt
+2018-05-29 16:40:47 ....A       323806               DBw/360Icon_Cracked.txt
+2018-05-29 16:41:03 ....A     21768949               DBw/4privatedbs.txt
+2018-05-29 16:41:09 ....A        46852               DBw/8teenxxx.com .txt
+2018-05-29 16:41:14 ....A        54691               DBw/99Fame.com .txt
+2018-05-29 16:41:27 ....A       117844               DBw/ABCDomain.am.txt
+2018-05-29 16:41:50 ....A      8192838               DBw/1337-crew_members.sql
+2018-05-29 16:44:15 ....A      3087419               DBw/BitTorrent.com_Forum_IPB_34k_January_2016.csv
+2018-05-29 16:44:26 ....A      9606375               DBw/BleachAnime_145k_2015.txt
+2018-05-29 16:45:31 ....A      2818605               DBw/CMDBooter.sql DB.sql
+2018-05-29 16:45:43 ....A     15095350               DBw/CrackingForum.txt
+2018-05-29 16:45:49 ....A      1340074               DBw/DB Paladins.txt
+2018-06-02 17:32:51 ....A       841321               DBw/ipmitnew 20110126 1322.sql
+2018-06-02 17:33:04 ....A       514455               DBw/intranetjoomla.sql
+2018-06-02 17:33:15 ....A        33440               DBw/sample_dat3a.sql
+2018-06-02 17:33:18 ....A       390700               DBw/joomla15.sql
+2018-05-29 16:46:19 ....A       603810               DBw/DamnSmallLinux%20Forum.txt
+2018-05-29 16:46:24 ....A     21544785               DBw/Delicious_Takoyaki.txt
+2018-05-29 16:46:46 ....A       415284               DBw/DigitalGangster.com 2016.txt
+2018-05-29 16:47:32 ....A         5982               DBw/Dkp-niedersachsen.de_2016_100_phpbb.txt
+2018-05-29 16:47:41 ....A        27596               DBw/Frostybooter.net.sql
+2018-05-29 16:47:55 ....A       141338               DBw/Forum.Furiouspk.com_ipb_April_2016.txt
+2018-05-29 16:53:16 ....A         5434               DBw/Hostile Stresser.txt
+2018-05-29 16:54:47 ....A       203646               DBw/Incorpore.co.uk.txt
+2018-05-29 16:55:45 ....A      3693891               DBw/Kakas.txt
+2018-05-29 16:55:52 ....A       837510               DBw/Keybase.txt
+2018-05-29 16:56:16 ....A      5173743               DBw/LOTS MORE DATABASES.txt
+2018-05-29 16:56:58 ....A      4392530               DBw/LateChef_2016_54k_Plaintext.txt
+2018-05-29 16:57:06 ....A     11644257               DBw/Legion Booter.sql
+2018-05-29 16:57:38 ....A        20982               DBw/LionCase.txt
+2018-05-29 16:57:43 ....A      3132173               DBw/List.txt
+2018-05-29 16:58:09 ....A         8298               DBw/MTIScape DB.txt
+2018-05-29 16:58:55 ....A         8298               DBw/MTIScape.txt
+2018-05-29 16:59:03 ....A      3155156               DBw/MacTorrents.txt
+2018-05-29 16:59:18 ....A       113283               DBw/MangaTrader.txt
+2018-05-29 16:59:40 ....A      1768065               DBw/Mavic mp3.txt
+2018-05-29 16:59:58 ....A      8408521               DBw/Minecraft Pocket Edition Forum.sql
+2018-05-29 17:00:19 ....A       248235               DBw/Missouri Edu Subdomain Leak.txt
+2018-05-29 17:00:36 ....A      1013790               DBw/Mylloyd.com_2016_30k.txt
+2018-05-29 17:01:51 ....A       342624               DBw/NitroBooter.sql
+2018-05-29 17:03:25 ....A          322               DBw/OnlineCares.txt
+2018-05-29 17:03:42 ....A      3150810               DBw/PERCH CMS.sql
+2018-05-29 17:04:06 ....A        80138               DBw/PHPBB3_peasefull.rsbandb.csv
+2018-05-29 17:05:17 ....A       264255               DBw/Palestine Weekly.txt
+2018-05-29 17:05:24 ....A         1761               DBw/Paradie Stresser.txt
+2018-05-29 17:05:34 ....A        68546               DBw/PartyClick.csv
+2018-05-29 17:05:47 ....A       120788               DBw/Phishing Hijacks.txt
+2018-05-29 17:06:19 ....A      3195939               DBw/PingPong.su_2016_57k_phpbb.txt
+2018-05-29 17:06:26 ....A        10351               DBw/PirateStresser_users_2013_08_13.sql
+2018-05-29 17:06:33 ....A      6184779               DBw/SevenDollarClick.com_2016_109k.txt
+2018-06-02 17:33:46 ....A       480852               DBw/Database4.sql
+2018-05-29 17:07:33 ....A       791947               DBw/Wii-Records_2016_18k_phpbb.txt
+2018-05-29 17:07:42 ....A       134398               DBw/Thrill.li.sql
+2018-05-29 17:07:51 ....A      2589115               DBw/ThreeDollarClick.com_2016_46k.txt
+2018-05-29 17:08:01 ....A      9695957               DBw/TalkTalk.sql
+2018-05-29 17:08:23 ....A        14196               DBw/StealthStresser_Feb_2014.txt
+2018-05-29 17:08:53 ....A        14196               DBw/StealthStresser_Feb_2014.csv
+2018-05-29 17:09:00 ....A       257289               DBw/Superstresser.csv
+2018-05-29 17:09:08 ....A       246421               DBw/Stresser.club .sql
+2018-05-29 17:10:56 ....A       412106               DBw/birdphotographers.net_January2017.txt
+2018-05-29 17:11:24 ....A        51199               DBw/bluepark.co.uk_January2017.csv
+2018-05-29 17:09:46 ....A       319837               DBw/Zoomaru Users.txt
+2018-05-29 17:11:31 ....A       124622               DBw/bdsmfap.com_21_Jan_2017.csv
+2018-05-29 17:11:42 ....A     50179078               DBw/WiiUISO.com_25_09_15.csv
+2018-05-29 17:12:06 ....A       191451               DBw/board.uscho.com_Jan2017.csv
+2018-05-29 17:12:13 ....A       776991               DBw/breezesysforum.co.uk-vb-2017.csv
+2018-05-29 17:12:39 ....A       904192               DBw/c4forums.com.csv
+2018-05-29 17:12:52 ....A        26356               DBw/callofduty-community.com_Jan2017.csv
+2018-06-02 17:34:25 ....A      1316300               DBw/phpadmin.sql
+2018-06-02 17:34:30 ....A       185148               DBw/lesanneeslangevin.sql
+2018-06-02 17:34:35 ....A       395363               DBw/ce.sql
+2018-05-29 17:13:49 ....A       617006               DBw/casus-belli.co.uk - casusbelli.tblusers 1.1.2016.csv
+2018-05-29 14:08:04 ....A        52205               DBw/CrossFire_1k.txt
+2018-06-02 17:35:11 ....A       190607               DBw/jung2010.sql
+2018-05-29 14:08:45 ....A        67075               DBw/FrontierFactions_TeamSpeak_IPs_730.txt
+2018-05-29 14:07:38 ....A        11971               DBw/AnarchyHCF_IPs_480.txt
+2018-05-29 14:07:44 ....A       361979               DBw/CentrixPvP_E-Mails_10.3k.txt
+2018-05-29 14:07:49 ....A        56401               DBw/ChooChoosMC_E-Mails_1k.txt
+2018-05-29 14:08:00 ....A        87575               DBw/CraftBlock_E-Mails_2.5k.txt
+2018-05-29 14:11:39 ....A       603610               DBw/Iratus_ips_10k (2).txt
+2018-05-29 14:08:20 ....A       262644               DBw/EnforcedMC_Buycraft_Logs_1.3k.txt
+2018-05-29 14:08:27 ....A       285181               DBw/EpsilonMC_Forums.txt (2).txt
+2018-05-29 14:12:24 ....A     10040072               DBw/PEforums.sql
+2018-05-29 14:09:16 ....A      4641185               DBw/FunCraft_E-mails_Passwords (2).txt
+2018-05-29 14:09:29 ....A      3498582               DBw/HCGames_IPs_57.3k.txt
+2018-05-29 14:09:34 ....A        39118               DBw/HCNations.txt
+2018-05-29 14:09:43 ....A         6694               DBw/HCRiots_Forums_Leak (1).txt
+2018-05-29 14:11:09 ....A         5680               DBw/HQFactions_IPs_230.txt
+2018-05-29 14:11:22 ....A       478715               DBw/HydraPvP_IPs_9.4k.txt
+2018-05-29 14:11:33 ....A       375930               DBw/Iratus_Buycraft_logs (2).txt
+2018-05-29 14:15:49 ....A        84420               DBw/Teamspeak - Minemenclub (2).txt
+2018-05-29 14:11:52 ....A       171799               DBw/JawsPvP_Ips_1k (2).txt
+2018-05-29 14:12:04 ....A         4234               DBw/MC-Bazaar_E-Mails_130.txt
+2018-05-29 14:12:10 ....A       685391               DBw/MapleCraft_11k_IPS.txt
+2018-05-29 14:12:15 ....A         4244               DBw/Mc-Bazaar.txt
+2018-05-29 14:16:56 ....A      2392455               DBw/VeltPvP_IPs_35k.txt
+2018-05-29 14:12:43 ....A       703854               DBw/RoyaltyPvP_IPs_11k.txt
+2018-05-29 14:12:53 ....A       195433               DBw/SQLI_NIGGGA_1.txt
+2018-05-29 14:13:09 ....A       243506               DBw/Sarefine_IPs_10k.txt
+2018-05-29 14:13:14 ....A        81739               DBw/Shotbow_Staff_IPs_3.2k.txt
+2018-05-29 14:13:45 ....A       140555               DBw/SimplyHCF_aka_OxPvP_Buycraft.csv
+2018-05-29 14:15:30 ....A       333939               DBw/SpainPvP_E-Mails_9.5k.txt
+2018-05-29 14:15:39 ....A         1743               DBw/TeaClient_Accounts_50.txt
+2018-05-29 14:15:43 ....A         3943               DBw/Teamspeak - Gucci.txt
+2018-05-29 14:17:32 ....A         1488               DBw/VitalityHCF_IPs_60.txt
+2018-05-29 14:15:54 ....A       203771               DBw/TheBigDigMC_E-Mails_5.8k.txt
+2018-05-29 14:16:04 ....A        63583               DBw/ValuxNetworkBuycraft.csv
+2018-05-29 14:16:30 ....A      1290754               DBw/VapeDatabase.csv
+2018-05-29 14:16:47 ....A         2510               DBw/VardenGalaxy_IPs_102.txt
+2018-05-29 14:16:51 ....A       195421               DBw/VeltPvP_E-Mails_6k.txt
+2018-05-29 14:17:28 ....A      1419987               DBw/ViperHCF_Forums_19k.txt
+2018-06-02 17:35:24 ....A      1540442               DBw/8255409_blog2.sql
+2018-05-29 14:17:39 ....A      1265697               DBw/WaffleMinecraft_E-Mails_35k.txt
+2018-05-29 14:17:48 ....A       302611               DBw/arcane_teamspeak_11k.txt
+2018-05-29 14:17:56 ....A      5517422               DBw/arkaniaz_mds35k.csv
+2018-05-29 14:19:38 ....A        32593               DBw/astro_buycraft_130.csv
+2018-05-29 14:19:45 ....A       449749               DBw/beastfaction_buycraft.csv
+2018-05-29 14:19:49 ....A         3719               DBw/buzzplex_E-Mails_100.txt
+2018-05-29 14:19:53 ....A       321327               DBw/candypvp.fr_3k.txt
+2018-05-29 14:19:58 ....A        41689               DBw/chearful.ninja_Logins_450.txt
+2018-05-29 14:20:17 ....A      5807947               DBw/craft-apple.csv
+2018-05-29 14:20:46 ....A        11953               DBw/db_leak_#habblah.txt
+2018-05-29 14:21:04 ....A       230268               DBw/dinastymc.csv
+2018-05-29 14:21:10 ....A       230272               DBw/dinastymceu.csv
+2018-05-29 14:21:41 ....A        31971               DBw/op_cpps_db_leak.txt
+2018-05-29 14:21:50 ....A        23154               DBw/play.epicgaming.nl_Buycraft.csv
+2018-05-29 14:21:54 ....A       375026               DBw/sand-craft.ru_5k.txt
+2018-05-29 14:22:05 ....A       149221               DBw/tipanddonation.com.sql
+2018-05-29 14:22:17 ....A      4449479               DBw/vape.gg_Payment_Information_4.5k.csv
+2018-05-29 14:27:30 ....A         8056               DBw/internetfamous.com.txt
+2018-05-29 14:27:47 ....A       258358               DBw/wibbor.hotel.free-h.fr.sql
+2018-05-29 14:27:53 ....A       423150               DBw/www.lepidoptera.eu.txt
+2018-05-29 17:14:00 ....A       906899               DBw/chaoticimpluse-db.csv
+2018-05-29 17:14:08 ....A        50422               DBw/cxc.harvard.edu.csv
+2018-05-29 15:35:06 ....A          981               DBw/2ndfloor.org-vb-2017-forums.txt
+2018-05-29 15:36:00 ....A         1524               DBw/aippm.com-vb-2017.txt
+2018-05-29 15:36:06 ....A       133549               DBw/aosts.net-vb-2017.txt
+2018-05-29 15:36:55 ....A      2880397               DBw/aussievapers.com-vb-2017.txt
+2018-05-29 17:14:16 ....A       131669               DBw/darkstar-gaming.com_vb_January2017.csv
+2018-05-29 17:14:20 ....A       231059               DBw/dinastymc.eu.txt
+2018-05-29 17:14:25 ....A       152469               DBw/doxhotel.cc.csv
+2018-05-29 17:15:24 ....A      9435623               DBw/florida.gov.csv
+2018-05-29 17:15:49 ....A      2124372               DBw/forums.aussievapers.com_vb_January2017.csv
+2018-05-29 17:15:55 ....A     17856270               DBw/dump_destructoid_vbuser_01.csv
+2018-05-29 17:16:50 ....A        65716               DBw/home.co.li.db.txt
+2018-05-29 17:17:07 ....A         6261               DBw/hostilestresser.sql
+2018-05-29 17:17:36 ....A          455               DBw/hosting-linux.txt
+2018-05-29 17:17:42 ....A        28388               DBw/hrionline.ac.uk.txt
+2018-05-29 17:17:57 ....A       117472               DBw/hrs db plaintext (1).csv
+2018-05-29 17:18:07 ....A        11682               DBw/httpizkis.ru.csv
+2018-05-29 17:18:47 ....A       132363               DBw/ichatlatino.txt
+2018-05-29 17:18:55 ....A        79027               DBw/ilink.txt
+2018-05-29 17:20:18 ....A        27501               DBw/ipb_osrs-pvp(new).csv
+2018-05-29 17:20:36 ....A       108052               DBw/ipb_runebit.csv
+2018-05-29 17:20:45 ....A      2937118               DBw/ipb_runecrypt.csv
+2018-05-29 17:20:56 ....A      1608028               DBw/ipb_runehq.csv
+2018-05-29 17:21:02 ....A       141136               DBw/ipb_runeshark.sql
+2018-05-29 17:21:31 ....A        16989               DBw/ipb_tkoe_old.csv
+2018-05-29 17:21:38 ....A     17300575               DBw/ipmart-bg.com_vb_December_2015.csv
+2018-05-29 17:21:43 ....A        84601               DBw/israhelp.com.csv
+2018-05-29 17:21:50 ....A      8922190               DBw/ipb_rs2006.csv
+2018-05-29 17:21:58 ....A     13114815               DBw/ipb_Zybez.csv
+2018-05-29 17:22:29 ....A       270336               DBw/ivniky.csv
+2018-05-29 17:22:38 ....A        11708               DBw/izkis.csv
+2018-05-29 17:22:46 ....A       730160               DBw/j-ax.txt
+2018-05-29 17:23:10 ....A       643643               DBw/jetsfansunited.sql
+2018-05-29 17:24:23 ....A     12870361               DBw/latimes_users.sql
+2018-05-29 17:24:40 ....A       101271               DBw/leakbase.pw_access_log_with_cleartext_passwords.csv
+2018-05-29 17:24:54 ....A         2613               DBw/loc.gov.csv
+2018-05-29 17:25:01 ....A        79528               DBw/los-angeles-theatre.com - reviews_north_america.review_users.csv
+2018-05-29 17:25:14 ....A      4598240               DBw/loungeboard.net.sql
+2018-05-29 17:25:43 ....A        95303               DBw/lumensfactory.com.txt
+2018-05-29 17:26:08 ....A       134612               DBw/mckeownandwood.com.txt
+2018-05-29 17:26:14 ....A       164985               DBw/md5_RSHun.csv
+2018-05-29 17:26:22 ....A       591552               DBw/md5_oldsythe.csv
+2018-05-29 17:26:32 ....A      1586523               DBw/md5_phpbb3_rsnl.csv
+2018-05-29 17:26:39 ....A       718366               DBw/md5_runehead.csv
+2018-05-29 17:26:53 ....A     15037121               DBw/md5_tipit.csv
+2018-05-29 17:27:02 ....A         7141               DBw/md5_ziotic.csv
+2018-05-29 17:27:16 ....A     10045445               DBw/minecraft pe forum.sql
+2018-05-29 17:27:24 ....A        15910               DBw/miniclip_dump.csv
+2018-05-29 17:27:36 ....A      7574538               DBw/mobstub.com.txt
+2018-05-29 17:27:44 ....A     32681984               DBw/majorgeeks.csv
+2018-05-29 17:27:54 ....A      6426776               DBw/mac-torrents.csv
+2018-05-29 17:29:26 ....A       733722               DBw/new  3.csv
+2018-05-29 17:29:32 ....A     12466860               DBw/newseasims.com - sims.user.csv
+2018-05-29 17:29:35 ....A         4305               DBw/nezzwerk.com.txt
+2018-05-29 17:29:42 ....A         4305               DBw/nezzwerk.com.csv
+2018-05-29 17:29:51 ....A       746392               DBw/noaa.sql
+2018-05-29 17:30:00 ....A        77212               DBw/nocommonscents.com - nocommonscents.customers.csv
+2018-05-29 17:30:48 ....A      2044984               DBw/os-pvp.net.txt
+2018-05-29 17:31:37 ....A      2204685               DBw/parsed.csv
+2018-05-29 17:31:45 ....A        47659               DBw/pccongress.csv
+2018-05-29 17:31:50 ....A         5510               DBw/pgp.txt
+2018-05-29 17:32:22 ....A       150379               DBw/picturingamerica.neh.gov.txt
+2018-05-29 17:33:50 ....A     17965804               DBw/plaintxt_yahoo.sql
+2018-05-29 17:34:18 ....A       390885               DBw/poodlecorp.csv
+2018-05-29 17:34:23 ....A       741481               DBw/portalcharacters.com - skylanders.users 1.11.2016.csv
+2018-05-29 17:34:27 ....A         4729               DBw/pspthemez.com.txt
+2018-05-29 17:35:13 ....A         7874               DBw/salalahport.com.txt
+2018-05-29 17:35:20 ....A        23436               DBw/sinlucro.es.csv
+2018-05-29 17:35:27 ....A        34988               DBw/surgeryu.com - 641009_surgeryu.users_30.10.2016.csv
+2018-05-29 17:35:33 ....A      1325839               DBw/teens-xxx.org_01.21.2017.csv
+2018-05-29 17:35:43 ....A      7918415               DBw/redbox.csv
+2018-05-29 17:36:39 ....A       258899               DBw/tolarys.com.txt
+2018-05-29 17:37:10 ....A      1972518               DBw/unitedcashback.com DataBase.sql
+2018-05-29 17:37:14 ....A         3997               DBw/uselitewine.com.txt
+2018-05-29 17:37:25 ....A       806588               DBw/xboxforum.com_01.21.2017.csv
+2018-06-02 17:36:18 ....A       553409               DBw/sexology101.sql
+2018-06-02 17:36:24 ....A       691559               DBw/databasebackup.sql
+2018-06-02 17:36:28 ....A       614136               DBw/observator_noiembrie.sql
+2018-06-02 17:40:49 ....A      1619752               DBw/information_schema.sql
+2018-06-02 17:41:24 ....A     70694127               DBw/disabili8_curator.sql
+2018-06-02 17:44:36 ....A       326425               DBw/rightweight.sql
+2018-06-02 17:44:40 ....A       326199               DBw/rightwp.sql
+2018-06-02 17:48:38 ....A         1888               DBw/9-13-disaster_type.backup
+2018-06-02 17:48:48 ....A         5650               DBw/9-13-incident.backup
+2018-06-02 18:01:03 ....A       436558               DBw/northwind.sql
+2018-06-02 18:02:15 ....A       178704               DBw/aa.txt
+2018-06-02 18:02:35 ....A         7317               DBw/paypalplus.sql
+2018-06-02 18:03:07 ....A       126701               DBw/DatabasePriorToUltSeoJan14.sql
+2018-06-02 18:03:12 ....A        91623               DBw/mann.evo-osC.2008-04-07.sql
+2018-06-02 18:03:20 ....A        11343               DBw/artzy.sql
+2018-06-02 18:03:26 ....A       244260               DBw/slicksta_trd.sql older.sql
+2018-06-02 18:04:51 ....A         5206               DBw/test.sql
+2018-06-02 18:04:54 ....A      1142559               DBw/trueloaded.sql
+2018-06-02 18:04:55 ....A       212160               DBw/techcom.sql
+2018-06-02 18:05:28 ....A         9215               DBw/company.dump.sql
+2018-06-02 18:06:19 ....A      2774354               DBw/mor.sql
+2018-06-02 18:07:10 ....A        39934               DBw/jpci.sql
+2018-06-02 18:07:44 ....A        45628               DBw/database.sql
+2018-06-02 18:08:40 ....A      1107622               DBw/fitflops_shoesuk_com.sql
+2018-06-02 18:08:43 ....A        10882               DBw/cs340_tusingz.sql
+2018-06-02 18:09:41 ....A         3623               DBw/simplersvp.sql
+2018-06-02 18:09:44 ....A          788               DBw/prepaid.sql
+2018-06-02 18:09:54 ....A       192024               DBw/catalog.sql
+2018-06-02 18:09:57 ....A         2363               DBw/imovies_users.dump.txt
+2018-06-02 18:10:08 ....A         2645               DBw/sqldump.sql
+2018-06-02 18:10:15 ....A         5781               DBw/php101_gallery.sql
+2018-06-02 18:10:20 ....A       252293               DBw/itos.sql
+2018-06-02 18:10:23 ....A        30343               DBw/rental_26674151.sql
+2018-06-02 18:10:26 ....A        19410               DBw/iaos-samba.txt
+2018-06-02 18:11:06 ....A        71987               DBw/mj22012005.mysql.txt
+2018-06-02 18:11:12 ....A        71987               DBw/mj22012005.mysql.sql
+2018-06-02 18:11:55 ....A       411129               DBw/database2.sql
+2018-06-02 18:12:15 ....A       117159               DBw/larry_kontur1.sql
+2018-06-02 18:12:20 ....A       179854               DBw/dragunar_aucicn.sql
+2018-06-02 18:12:22 ....A        70083               DBw/28.sql
+2018-06-02 18:13:04 ....A      2361426               DBw/24.sql
+2018-06-02 18:13:06 ....A         4283               DBw/bisnis1.txt
+2018-06-02 18:13:10 ....A        23649               DBw/install.sql
+2018-06-02 18:13:34 ....A        16830               DBw/bugzilla-2.10-mysqldump.sql
+2018-06-02 18:15:16 ....A         2364               DBw/affiliate.sql
+2018-06-02 18:18:09 ....A      1580139               DBw/backup.mysql.sq;
+2018-06-02 18:18:14 ....A      1580139               DBw/backup.mysql.sql
+2018-06-02 18:18:22 ....A         5638               DBw/mydb_customers.sql
+2018-06-02 18:18:42 ....A       237408               DBw/aerationpowersystems2.sql
+2018-06-02 18:19:37 ....A       964086               DBw/sql.sql
+2017-02-02 07:17:48 ....A    246604818               DBw/BTC-E_RaidForums/BTC-E.txt
+2018-05-31 14:23:52 ....A   1016725702               DBw/torrent-invites.com_forum-2016-08-07.sql.gz
+2018-06-01 01:45:45 ....A     34556016               DBw/5million.rar
+2018-05-31 06:47:52 ....A    803481808               DBw/Cannabis.com.rar
+2018-05-30 13:39:15 ....A   1286209536               DBw/Badoo.com.June2016.rar
+2018-05-30 12:31:39 ....A    872448000               DBw/exploit.in.zip
+2018-05-30 13:15:18 ....A     66406889               DBw/forbes-wp_users.txt.zip
+2018-05-31 05:03:53 ....A       333447               DBw/Accounts.zip
+2018-05-31 07:22:58 ....A    117776109               DBw/Xsplit Plain (SHA1).7z
+2018-05-31 07:24:02 ....A     31937162               DBw/Abandonia.com_vb_November_2015.txt - Copy (2).7z
+2018-05-31 07:40:23 ....A    942665599               DBw/53c06-rambler.ru_plain-91-million-users.7z
+2018-05-31 08:45:27 ....A    760252229               DBw/nulled.io.sql.7z
+2018-05-31 14:18:43 ....A     95881345               DBw/DLH.net_3M_2016.7z
+2018-05-31 13:38:32 ....A     70562234               DBw/Nihonomaru.7z
+2018-05-31 14:07:36 ....A   1924677632               DBw/dropbox-thesle3p.7z
+2018-05-31 13:44:37 ....A    540535651               DBw/investbank.ae-2016-04-25.zip
+2018-05-31 14:36:52 ....A    528542195               DBw/mate1.com-plain-november-2015.txt.7z
+2018-05-31 14:41:43 ....A   1802518298               DBw/Zoosk.com.7z
+2018-06-01 01:58:26 ....A     19068373               DBw/fraud.ws_2016-08-09_07-37-41.sql.gz
+2018-06-01 02:27:39 ....A        12156               DBw/bigdump.zip
+2018-06-01 08:03:38 ....A       135312               DBw/Whale-Text-Semibold.woff
+2018-06-02 17:27:31 ....A      2094793               DBw/db.sql
+2018-06-02 17:43:17 ....A       139085               DBw/mantis_pixelcorral.sql
+2018-06-02 17:44:32 ....A      3616519               DBw/theatero_hapticlab.20100617.1254.UPDATE.sql.gz
+2018-06-02 17:44:34 ....A      2829531               DBw/theatero_hapticlab.20100617.1254.INSERT (1).sql.gz
+2018-06-02 17:44:48 ....A      5674638               DBw/art1114301454239.sql
+2018-06-02 17:46:01 ....A      1402520               DBw/mysql5.1.55data.2013-08-28-06-34 (1).tar.gz
+2018-06-02 17:45:44 ....A      3279339               DBw/local-db-dump-2018-05-11-134702.sql
+2018-06-02 17:47:09 ....A     46690393               DBw/local-db-dump-2018-05-30-150347.sql
+2018-06-02 17:46:26 ....A       581407               DBw/backup-on-2018-01-26-16-42-13.zip
+2018-06-02 17:46:28 ....A       596834               DBw/backup-on-2018-04-24-10-43-33.zip
+2018-06-02 17:47:55 ....A     46402232               DBw/production-db-dump-2018-05-30-152450.sql
+2018-06-02 17:52:28 ....A       112887               DBw/enviroca_wp_2018-03-27.sql.gz
+2018-06-02 17:47:27 ....A      6470428               DBw/amplifydb.sql
+2018-06-02 17:48:03 ....A       442894               DBw/vastwp 20110923 0337.sql
+2018-06-02 17:48:16 ....A        65234               DBw/db_2908.backup
+2018-06-02 17:50:36 ....A          118               DBw/d1548-tta_20151103-092118.sql.gz.descr
+2018-06-02 17:50:38 ....A          108               DBw/d1548-tta_20121214-074438.sql.gz.descr
+2018-06-02 17:51:37 ....A          108               DBw/d1548-tta_20121214-074438.sql.gz (1).descr
+2018-06-02 17:51:42 ....A       559319               DBw/d1548-tta_20121214-074438 (1).sql.gz
+2018-06-02 17:52:04 ....A       112847               DBw/enviroca_wp_2014-11-27.sql.gz
+2018-06-02 17:52:22 ....A       112888               DBw/enviroca_wp_2017-01-27.sql.gz
+2018-06-02 17:52:25 ....A       112888               DBw/enviroca_wp_2017-11-27.sql.gz
+2018-06-02 17:54:29 ....A      1456008               DBw/web1015011102758.sql
+2018-06-02 18:19:31 ....A      1778243               DBw/1330162067_boa_intra.sql
+2018-06-02 18:08:23 ....A        19279               DBw/BennettD_W2A3sr1rabbi001aii_SE (1).docx
+2018-05-29 17:28:02 ....A        18818               DBw/myvpz_users.db
+2018-05-29 16:39:15 ....A     53870592               DBw/0sec-db.txt
+2018-05-29 16:39:16 ....A        38343               DBw/143vpn db.7z
+2018-05-29 16:39:45 ....A     37365627               DBw/Abandonia.com_vb_November_2015 (1).txt.gz
+2018-05-29 16:43:19 ....A        48230               DBw/Felonypk Database (1).txt.gz
+2018-05-29 16:42:10 ....A      2895153               DBw/Aimjunkies.7z
+2018-05-29 16:42:16 ....A       422052               DBw/Asus.sql
+2018-05-29 16:42:43 ....A      9715072               DBw/Awesomeforums DB + Source.zip
+2018-05-29 16:42:26 ....A        64212               DBw/BlackLotus.sql
+2018-05-29 16:42:30 ....A        40116               DBw/BlazingVPS.com.rar
+2018-05-29 16:43:18 ....A     13306437               DBw/CardingMafia.7z
+2018-05-29 13:49:03 ....A         7481               DBw/3.txt.gz
+2018-05-29 14:15:08 ....A        11175               DBw/acehcf_ips.csv
+2018-05-29 16:43:36 ....A     17863125               DBw/CheapAssGamer.com_vB_385k_July_2015.zip
+2018-05-29 16:42:46 ....A       210518               DBw/CodeCommunity.sql
+2018-05-29 16:44:34 ....A     31526142               DBw/Hackforums.net (200k users) (1).sql.gz
+2018-05-29 16:43:47 ....A      9562913               DBw/Enhance.sql
+2018-05-29 16:43:58 ....A      3889694               DBw/HackDiscussion.com.sql
+2018-05-29 16:56:25 ....A        51457               DBw/LegacyPlainTXT (1).txt.gz
+2018-05-29 13:48:23 ....A       322819               DBw/000webhost.com.txt.gz
+2018-05-29 13:48:47 ....A     12506019               DBw/0sec-db.txt.gz
+2018-05-29 13:48:49 ....A       197811               DBw/10k-hacked-hackforums-accounts.txt.gz
+2018-05-29 13:48:50 ....A       197786               DBw/10khf.txt.gz
+2018-05-29 13:48:52 ....A         2446               DBw/11.txt.gz
+2018-05-29 13:48:59 ....A        91692               DBw/16k xenforo-IPB backdoor dump.txt.gz
+2018-05-29 13:49:05 ....A     10768119               DBw/230K Users.sql.gz
+2018-05-29 13:49:25 ....A     12310696               DBw/5000000 Gmail.txt.gz
+2018-05-29 13:49:20 ....A         3445               DBw/7.txt.gz
+2018-05-29 13:49:24 ....A        57312               DBw/ABCDomain.am.txt.gz
+2018-05-29 13:49:44 ....A        61100               DBw/Abusewith.us DB Lookup - aah.txt.gz
+2018-05-29 13:49:53 ....A     37365627               DBw/Abandonia.com_vb_November_2015.txt.gz
+2018-05-29 13:49:40 ....A      1149824               DBw/Abusewith.us DB Lookup - aaa.txt.gz
+2018-05-29 13:49:42 ....A       928746               DBw/Abusewith.us DB Lookup - aad.txt.gz
+2018-05-29 13:49:42 ....A       895400               DBw/Abusewith.us DB Lookup - aaf.txt.gz
+2018-05-29 13:49:43 ....A        64555               DBw/Abusewith.us DB Lookup - aag.txt.gz
+2018-05-29 13:49:54 ....A       273681               DBw/Abusewith.us DB Lookup - aan.txt.gz
+2018-05-29 13:49:55 ....A        30109               DBw/Abusewith.us DB Lookup - aao.txt.gz
+2018-05-29 13:49:55 ....A       100881               DBw/Abusewith.us DB Lookup - aap.txt.gz
+2018-05-29 13:50:13 ....A        47652               DBw/Abusewith.us DB Lookup - aay.txt.gz
+2018-05-29 13:52:54 ....A        47652               DBw/Abusewith.us DB Lookup - aay (1).txt.gz
+2018-05-29 13:52:55 ....A        46729               DBw/Abusewith.us DB Lookup - aaz.txt.gz
+2018-05-29 13:53:01 ....A        66246               DBw/Abusewith.us DB Lookup - abh.txt.gz
+2018-05-29 13:52:59 ....A      1462373               DBw/Abusewith.us DB Lookup - abe.txt.gz
+2018-05-29 13:53:05 ....A       447020               DBw/Abusewith.us DB Lookup - abl.txt.gz
+2018-05-29 13:53:11 ....A        42079               DBw/Abusewith.us DB Lookup - abt.txt.gz
+2018-05-29 13:53:34 ....A     18104559               DBw/Abusewith.us DB Lookup - gmail.txt.gz
+2018-05-29 13:53:35 ....A       159700               DBw/Abusewith.us DB Lookup - post.txt.gz
+2018-05-29 13:54:00 ....A         1976               DBw/Ascentproject.eu .txt.gz
+2018-05-29 13:54:01 ....A       562979               DBw/Asus Customers .txt.gz
+2018-05-29 13:54:02 ....A       179888               DBw/Asuslaptop.net .txt.gz
+2018-05-29 13:54:14 ....A     14906119               DBw/Battlefield Heroes Beta (550k users).csv.gz
+2018-05-29 13:54:16 ....A        76212               DBw/CMDBooter_Database.txt.gz
+2018-05-29 13:54:33 ....A       115155               DBw/Chernochumz.com.txt.gz
+2018-05-29 13:54:41 ....A        15157               DBw/Condusef.gob.mx.txt.gz
+2018-05-29 13:54:42 ....A         3653               DBw/Controlbooter.sql .sql.gz
+2018-05-29 13:54:49 ....A         7212               DBw/Cycloneservers.sql.gz
+2018-05-29 13:54:56 ....A        23324               DBw/Databin.docx
+2018-05-29 13:55:33 ....A        37907               DBw/Dump-diverseb_forum31_users_-2013-06-28.sql.gz
+2018-05-29 13:58:17 ....A       445841               DBw/FBI.txt.gz
+2018-05-29 13:58:18 ....A       166519               DBw/FOEDeCrypted.txt.gz
+2018-05-29 13:58:21 ....A       100996               DBw/FlashStresser.sql.gz
+2018-05-29 13:58:20 ....A        48230               DBw/Felonypk Database.txt.gz
+2018-05-29 13:58:30 ....A         5714               DBw/Frostybooter.net.txt.gz
+2018-05-29 13:58:29 ....A      6874348               DBw/Forums.LinuxMint.com_phpbb_February_2016.txt.gz
+2018-05-29 13:58:34 ....A       164359               DBw/GTABox.sql.gz
+2018-05-29 13:58:46 ....A       359977               DBw/GamingXploited.sql.gz
+2018-05-29 13:58:51 ....A          434               DBw/Groundservers.org.txt.gz
+2018-05-29 13:59:10 ....A      1260702               DBw/Hackbase.cc Users .txt.gz
+2018-05-29 13:59:25 ....A     31526142               DBw/Hackforums.net (200k users).sql.gz
+2018-05-29 13:59:26 ....A         9046               DBw/Humourjuif.com.txt.gz
+2018-05-29 13:59:17 ....A       242274               DBw/Homeland Security.txt.gz
+2018-05-29 13:59:19 ....A         2492               DBw/Hostile Stresser.txt.gz
+2018-05-29 13:59:40 ....A       258430               DBw/Jaguar Member Tables.txt.gz
+2018-05-29 13:59:32 ....A        24316               DBw/Illustrators.jp .txt.gz
+2018-05-29 13:59:47 ....A          241               DBw/LFK.txt.gz
+2018-05-29 13:59:49 ....A        51457               DBw/LegacyPlainTXT.txt.gz
+2018-05-29 13:59:50 ....A        11754               DBw/LionCase.txt.gz
+2018-05-29 14:00:05 ....A        23915               DBw/Maxed Accounts.txt.gz
+2018-05-29 14:00:14 ....A        26547               DBw/Mmamembers.txt.gz
+2018-05-29 14:00:10 ....A       159753               DBw/Misc.txt.gz
+2018-05-29 14:00:38 ....A     26180969               DBw/MyChemicalRomance-store-launch-2014-06-15T08-11-55.mysql
+2018-05-29 14:00:27 ....A         1029               DBw/Mystic-Stresser.com 2013-07-18.txt.gz
+2018-05-29 14:00:42 ....A       202087               DBw/National-Stresser.sql.tgz
+2018-05-29 14:00:57 ....A        71841               DBw/OCStresser.com hacked.txt.gz
+2018-05-29 14:00:54 ....A          129               DBw/Nulledstresser.com 2013-07-18.txt.gz
+2018-05-29 14:00:57 ....A       122843               DBw/O2C.txt.gz
+2018-05-29 14:04:57 ....A     10380242               DBw/WildStart database part (5).csv.gz
+2018-05-29 14:01:25 ....A        28441               DBw/PCCongress.org.uk .txt.gz
+2018-05-29 14:01:27 ....A        43713               DBw/PHPBB3_peasefull.rsbandb.txt.gz
+2018-05-29 14:01:41 ....A        35322               DBw/PartyClick.txt.gz
+2018-05-29 14:01:53 ....A         5827               DBw/Photocenter.fr.txt.gz
+2018-05-29 14:02:13 ....A     11147120               DBw/RSBoards.txt.gz
+2018-05-29 14:02:09 ....A        23580               DBw/Rskingdom.txt.gz
+2018-05-29 14:02:52 ....A     13970309               DBw/Solomid.net_ipb_November_2014.txt.gz
+2018-05-29 14:02:16 ....A       305394               DBw/RuneSharkDATABASE.txt.gz
+2018-05-29 14:02:55 ....A        76279               DBw/SoulSplit (3).txt.gz
+2018-05-29 14:02:37 ....A       462092               DBw/Sinister.ly.sql.gz
+2018-05-29 14:02:38 ....A       677159               DBw/SkTorrent.eu.txt.gz
+2018-05-29 14:02:39 ....A       244638               DBw/Sky_hack_ru_users.sql.gz
+2018-05-29 14:03:20 ....A       831844               DBw/TalkTalk.txt.gz
+2018-05-29 14:03:23 ....A         9061               DBw/Tennisarchives.com.txt.gz
+2018-05-29 14:03:31 ....A       924726               DBw/Tomopop.com_May_2015.sql.gz
+2018-05-29 14:03:54 ....A      8024726               DBw/USERS_PRS06.txt.gz
+2018-05-29 14:03:47 ....A        86985               DBw/UNWTO.org.txt.gz
+2018-05-29 14:03:52 ....A        30331               DBw/USFine DB.txt.gz
+2018-05-29 14:05:00 ....A      1713362               DBw/Witzauser.sql.txt.gz
+2018-05-29 14:04:55 ....A       361623               DBw/XRForums.net_Users_Summer_2011.sql.gz
+2018-05-29 14:05:05 ....A        57309               DBw/abcdomain.txt.gz
+2018-05-29 14:05:13 ....A          110               DBw/active_admin_comments.csv.gz
+2018-05-29 14:05:16 ....A          771               DBw/admin_users_original.csv.gz
+2018-05-29 14:05:45 ....A       111961               DBw/Aton2.com_Buycraft_DB.csv
+2018-05-29 14:05:32 ....A      5320075               DBw/ARKANIAZ_mds_35k.txt.csv
+2018-05-29 14:06:55 ....A       215338               DBw/FaithfulHCF_Buycraft_Logs_1.8k.csv
+2018-05-29 14:06:00 ....A      8198557               DBw/AviatorCraft_ForumSQL.csv
+2018-05-29 14:05:59 ....A       116187               DBw/BanterUHC_Buycraft_Logs_470.csv
+2018-05-29 14:06:20 ....A         3516               DBw/CraftRealms_Buycraft_DB_2012.csv
+2018-05-29 14:06:37 ....A        81407               DBw/EnderCraft_BuyCraft_DB.csv
+2018-05-29 14:06:49 ....A        34996               DBw/FactionsLab_emails.csv
+2018-05-29 14:06:51 ....A        91525               DBw/Fadegen.pw.csv
+2018-05-29 14:07:00 ....A      5574527               DBw/FaithfulHCF_Buycraft_Logs_30k.csv
+2018-05-29 14:10:16 ....A       673075               DBw/IslandClash_Buycraft_Logs_2.8k.csv
+2018-05-29 14:10:23 ....A      2854435               DBw/Koonkraft_buycraft_db.csv
+2018-05-29 14:14:26 ....A      1207279               DBw/SuperFunTime_Buycraft_Logs_7.5k.csv
+2018-05-29 14:14:40 ....A       386209               DBw/TheVace.Net_Emails_DB.csv
+2018-05-29 14:14:43 ....A       439590               DBw/Towelliee.com_Emails_DB.csv
+2018-05-29 14:14:55 ....A        10746               DBw/Violence Teamspeak.csv
+2018-05-29 14:22:41 ....A       113577               DBw/CSGameServs.Com.zip
+2018-05-29 14:22:40 ....A        76762               DBw/Bladehotel.zip
+2018-05-29 14:25:46 ....A    362716981               DBw/Greenwich_University.zip
+2018-05-29 14:22:44 ....A       134335               DBw/DELTA-STRESSER.XYZpt3.zip
+2018-05-29 14:23:00 ....A      1134873               DBw/Vibram.com.zip
+2018-05-29 14:23:03 ....A       209762               DBw/afd.gov.bd.zip
+2018-05-29 14:23:01 ....A         8344               DBw/XStresser.top.zip
+2018-05-29 14:23:18 ....A       262582               DBw/bikesbikesbikessuk.co.uk.zip
+2018-05-29 14:23:13 ....A       126118               DBw/autolet.it.zip
+2018-05-29 14:23:16 ....A       244950               DBw/bellmtcs.com.zip
+2018-05-29 14:23:32 ....A       244654               DBw/chicagoridersUserHashSalt.zip
+2018-05-29 14:23:48 ....A       188324               DBw/enrichment.org.zip
+2018-05-29 14:23:45 ....A       352505               DBw/edtreatmentreview.com2.zip
+2018-05-29 14:24:07 ....A       163053               DBw/furydown.com.zip
+2018-05-29 14:24:49 ....A       215017               DBw/ljuska.org.zip
+2018-05-29 14:25:32 ....A      3375138               DBw/prosap-hotel.nl.zip
+2018-05-29 14:25:47 ....A       261437               DBw/sexbanden.dk.zip
+2018-05-29 14:25:49 ....A       192435               DBw/sheriff_windham_county_2016.zip
+2018-05-29 14:26:10 ....A      2503264               DBw/syther.org.txt.zip
+2018-05-29 14:26:04 ....A      1240858               DBw/swingbrasileiro.com.br.zip
+2018-05-29 14:26:57 ....A      7776625               DBw/yfile.net.zip
+2018-05-29 14:26:16 ....A       111670               DBw/tcs.com.zip
+2018-05-29 14:26:25 ....A       116160               DBw/tunesoman.com.zip
+2018-05-29 14:26:27 ....A       831198               DBw/umoveindia.com.zip
+2018-05-29 14:26:34 ....A       101504               DBw/w200.org.zip
+2018-05-29 14:26:44 ....A       111831               DBw/wipro.com.zip
+2018-05-29 14:26:45 ....A       432169               DBw/wrestletalk.tv.zip
+2018-05-29 14:26:55 ....A     31312029               DBw/wtspy.zip
+2018-05-29 14:26:59 ....A       137814               DBw/zumbashop-sea.com.zip
+2018-05-29 14:27:00 ....A        24685               DBw/zzosDB.sql
+2018-05-29 15:34:13 ....A        55604               DBw/keyword.txt
+2018-05-29 17:04:32 ....A        89185               DBw/Rage Booter's Database Dump.sql
+2018-05-29 17:04:49 ....A     26590783               DBw/PowerMTA Solutions DB dump.sql
+2018-05-29 17:04:36 ....A       206839               DBw/SMF_SQL.sql
+2018-05-29 17:01:00 ....A       504775               DBw/National-Stresser.sql
+2018-05-29 17:01:02 ....A       504775               DBw/National-Stresser.sql.1
+2018-05-29 17:34:54 ....A      1263108               DBw/steamgamers.com_29-12-2012-20-47-58.sql.xz
+2018-05-29 17:04:35 ....A       309852               DBw/Runescape_Community.txt.xz
+2018-05-29 17:04:42 ....A      1064215               DBw/Sinister.ly.sql
+2018-05-29 17:05:06 ....A     20906814               DBw/Viphf December 2014.sql
+2018-05-29 17:31:23 ....A        44621               DBw/premium-membership.net.sql
+2018-05-29 17:09:23 ....A       317775               DBw/addictedcheats.sql
+2018-05-29 17:10:20 ....A      2221412               DBw/arenabg.com_forum.sql.xz
+2018-05-29 17:10:22 ....A        16648               DBw/assetgateway_clients.db.xz
+2018-05-29 17:13:22 ....A        12706               DBw/crackedspotify.com db.sql
+2018-05-29 17:10:33 ....A       374400               DBw/bitleak.sql
+2018-05-29 17:11:46 ....A      1063188               DBw/booter.tw.sql.xz
+2018-05-29 17:14:35 ....A      1039600               DBw/dump_www.codemasters.com_eshop_30-05-2011-14-22-42.txt.xz
+2018-05-29 17:11:56 ....A       800164               DBw/carders.cc_dec_2010_users.txt.xz
+2018-05-29 17:13:18 ....A        15748               DBw/clan-amok.org.txt.xz
+2018-05-29 17:13:36 ....A      3127108               DBw/deviantgamers.7z
+2018-05-29 17:13:36 ....A        19284               DBw/dnastu_12.txt.xz
+2018-05-29 17:14:46 ....A     22383846               DBw/ewhore.pro_mybb_2012_11_26_23_21.sql
+2018-05-29 17:14:37 ....A      2813160               DBw/epicbot.txt.xz
+2018-05-29 17:14:37 ....A          311               DBw/fadehost_admin.db.xz
+2018-05-29 17:16:04 ....A      2496544               DBw/freehack.com_users_dec_2010.txt.xz
+2018-05-29 17:16:14 ....A       421420               DBw/gta5base.com.7z
+2018-05-29 17:16:14 ....A         3952               DBw/hazardbooter.sql.xz
+2018-05-29 17:17:25 ....A      1774287               DBw/illuminati.ws_2013_08_16.sql
+2018-05-29 17:19:29 ....A        26815               DBw/incregen.net db.sql
+2018-05-29 17:19:43 ....A      6324974               DBw/ipfilter.dat
+2018-05-29 17:22:08 ....A       193403               DBw/ixam_users.db
+2018-05-29 17:22:33 ....A     44810240               DBw/jh826491_oldipb.sql
+2018-05-29 17:23:39 ....A     11755698               DBw/l33tshacks_2012_11_13_16_25.sql
+2018-05-29 17:23:35 ....A        76165               DBw/lab_phpaudit.sql
+2018-05-29 17:23:46 ....A          410               DBw/legionbooter.sql
+2018-05-29 17:23:40 ....A       272841               DBw/leakforums.sql
+2018-05-29 17:23:54 ....A        28047               DBw/longislandhosting.multicraft.sql
+2018-05-29 17:24:16 ....A     52043839               DBw/linode2.sql
+2018-05-29 17:25:19 ....A       264531               DBw/lulz_boot_DUMP_2013_01_15_10_03.sql
+2018-05-29 17:25:24 ....A        70803               DBw/mangogua (Konflict).sql
+2018-05-29 17:25:36 ....A       193507               DBw/mma.sql
+2018-05-29 17:28:06 ....A      6182188               DBw/networkgaming_2013_04_16.sql
+2018-05-29 17:28:10 ....A          706               DBw/nextpoint_admin.db
+2018-05-29 17:28:10 ....A       289573               DBw/nextpoint_users.db
+2018-05-29 17:28:22 ....A     15782705               DBw/nodus_users_2012_09_25.sql
+2018-05-29 17:28:19 ....A        64302               DBw/notoriousboot.net.sql
+2018-05-29 17:28:20 ....A        76432               DBw/notoriousboot.net_users.sql
+2018-05-29 17:31:17 ....A        19792               DBw/pokebooter.txt.xz
+2018-05-29 17:34:33 ....A        12072               DBw/randombooter.sql.xz
+2018-05-29 17:34:42 ....A       759996               DBw/runescaperealm.sql.xz
+2018-05-29 17:34:40 ....A        29568               DBw/rs-ps.org_users_2014-01-25.txt.xz
+2018-05-29 17:34:46 ....A       658348               DBw/shardgaming_users.db.xz
+2018-05-29 17:35:26 ....A     42559576               DBw/stratfor_full.tar.xz
+2018-05-29 17:35:05 ....A        38143               DBw/teamviewer.ninja db.sql
+2018-05-29 17:35:26 ....A     21545854               DBw/takoyaki.sql
+2018-05-29 17:35:10 ....A       990576               DBw/tangostr_back.sql.xz
+2018-05-29 17:36:00 ....A       364706               DBw/unkown_db_idk_ synthetic3.doc
+2018-05-29 17:36:09 ....A        42660               DBw/vdoss.sql.xz
+2018-05-29 17:36:49 ....A     11254092               DBw/warframe_users.sql
+2018-05-29 17:36:33 ....A       771744               DBw/warezfusion_users_2011_08_06_02_17.txt.xz
+2018-05-29 17:36:26 ....A      1640752               DBw/vpsace_clients_July_2013.sql.xz
+2018-05-29 17:36:22 ....A         8280               DBw/widespreadforums.com.db.users.sql.xz
+2018-05-29 17:36:41 ....A      9101814               DBw/w0rmsws.sql
+2018-05-29 17:36:32 ....A      2962855               DBw/w0rmws.tar.gz
+2018-05-29 17:36:44 ....A       464816               DBw/zion-network_users_oct_2011.txt.xz
+2018-05-29 17:36:56 ....A     24712014               DBw/xhamster.log
+2018-05-29 17:37:38 ....A         5574               DBw/valegen.link db (1).sql
+2018-05-29 17:37:48 ....A     16327262               DBw/utorrent.com_2016.txt (1).7z
+2018-05-29 17:37:41 ....A        42660               DBw/vdoss.sql (1).xz
+2018-05-29 17:37:44 ....A          587               DBw/vilayer_admin.db (1).xz
+2018-05-29 17:37:43 ....A       162196               DBw/vigilante.pw (1).csv
+2018-05-29 17:37:49 ....A      3553324               DBw/vintage-erotica-forum.com.sql (1).xz
+2018-05-30 00:57:38 ....A   4535170532               DBw/linkedin_all.7z
+2018-05-29 18:30:04 ....A    711396436               DBw/7dc58-ngp-van.7z
+2018-05-29 18:37:30 ....A    191805283               DBw/MPGH.net_vb_April_2015.txt.7z
+2018-05-29 18:24:22 ....A    263716864               DBw/investbank.ae.7z
+2018-05-30 14:31:19 ....A  13117982617               DBw/Myspace.com.txt.7z
+2018-05-30 12:29:40 ....A   2162247227               DBw/lastfm-thesle3p.rar
+2018-06-02 17:12:43 ....A      2784938               DBw/wordpress.sql
+2018-06-02 17:21:55 ....A     20986116               DBw/wp-s3-database-backup.sql
+2018-06-02 17:25:06 ....A      3562483               DBw/20160301-backup-2rodeo.com-database.sql
+2018-06-02 17:25:54 ....A      4063740               DBw/peillex-eu-default-1-complete-2014-03-07-07-24-53.sql
+2018-06-02 17:26:50 ....A     19306726               DBw/vendralc_b00-efcf4a7.sql
+2018-06-02 17:27:39 ....A       415554               DBw/joomla.sql
+2018-06-02 17:27:58 ....A       434737               DBw/joomla3.sql
+2018-06-02 17:30:19 ....A       321908               DBw/pays_nexon.sql
+2018-05-29 16:37:30 ....A        95491               DBw/bluepearl-skins.com-vb-2017.txt
+2018-06-02 17:30:26 ....A        68002               DBw/db_joomla.sql
+2018-06-02 17:30:37 ....A       758734               DBw/obersonclean.sql
+2018-06-02 17:31:41 ....A       426853               DBw/sample_dataa.sql
+2018-05-29 16:37:39 ....A       776991               DBw/breezesysforum.co.uk-vb-2017.txt
+2018-05-29 16:37:57 ....A       523084               DBw/canwatchco.ca-vb-2017.txt
+2018-05-29 16:38:10 ....A       407335               DBw/community.freebord.com-vb-2017.txt
+2018-05-29 16:38:21 ....A       120159               DBw/darkstar-gaming.com-vb-2017'.txt
+2018-05-29 16:38:26 ....A       113538               DBw/devil-group.com.txt
+2018-05-29 16:38:32 ....A       194884               DBw/downloadpolitics.com-vb-2017.txt
+2018-05-29 16:38:47 ....A      1616042               DBw/elluel.net-vb-2017.txt
+2018-05-29 16:40:19 ....A       233395               DBw/16k xenforo-IPB backdoor dump.txt
+2018-05-29 16:40:26 ....A         4491               DBw/212-booter.net-2013-07-19.txt
+2018-05-29 16:40:56 ....A      1414494               DBw/360icons.txt
+2018-06-02 17:31:55 ....A      2444715               DBw/nckuup.sql
+2018-05-29 16:47:49 ....A      4770610               DBw/FunOfficePools.com_2016_60k.txt
+2018-05-29 16:48:02 ....A      4699825               DBw/Hackbase.cc Users .sql
+2018-05-29 16:53:12 ....A       373372               DBw/Hacker.org.txt
+2018-05-29 16:53:39 ....A     26770971               DBw/Acparadise.com_2016_55k_phpbb.csv
+2018-05-29 16:54:32 ....A      3636741               DBw/IPStresser.com_2016-01.sql
+2018-06-02 17:33:22 ....A       480852               DBw/Database.sql
+2018-05-29 16:56:52 ....A       421980               DBw/Laptopmania.txt
+2018-05-29 16:57:27 ....A       153213               DBw/Lenovo.txt
+2018-05-29 16:57:52 ....A         8180               DBw/LivingsLegendsUSEREMAIL.txt
+2018-05-29 16:58:01 ....A     19529769               DBw/Lizard Stresser.sql
+2018-05-29 16:58:20 ....A         5220               DBw/maillist.txt
+2018-05-29 16:59:09 ....A       383061               DBw/Mail.ru.txt
+2018-05-29 16:59:50 ....A       596609               DBw/Mega-Torrent.ru.txt
+2018-05-29 17:00:10 ....A       408156               DBw/combolist.txt
+2018-05-29 17:01:29 ....A         1624               DBw/Mystic-Stresser.com 2013-07-18.txt
+2018-05-29 17:01:42 ....A       472252               DBw/NetBrawl Users.txt
+2018-05-29 17:02:01 ....A      2540093               DBw/North Dakota Bank Logs.csv
+2018-05-29 17:03:06 ....A      3845411               DBw/Nute UFSC Br.txt
+2018-05-29 17:03:11 ....A       328296               DBw/O2C.txt
+2018-05-29 17:03:18 ....A       145739               DBw/OCStresser.com hacked.txt
+2018-05-29 17:03:56 ....A      1867776               DBw/PS3Hax.net.csv
+2018-05-29 17:05:40 ....A        59072               DBw/Phantom Stresser.txt
+2018-05-29 17:06:13 ....A        16606               DBw/Photocenter.fr.csv
+2018-05-29 17:08:31 ....A       257289               DBw/Superstresser.txt
+2018-05-29 17:09:49 ....A       101732               DBw/anglia.ac.uk.txt
+2018-05-29 17:10:12 ....A     11243762               DBw/aol.com.txt
+2018-05-29 17:12:21 ....A       882053               DBw/breezesystemforum.co.uk_Jan2017.csv
+2018-05-29 17:12:32 ....A        32083               DBw/c0rrupt.org.csv
+2018-05-29 17:13:03 ....A       502267               DBw/calltermination.com_January2017.csv
+2018-06-02 17:34:19 ....A      1096677               DBw/site-sanngutu.info-20120820-044348.sql
+2018-06-02 17:34:22 ....A       325997               DBw/_bd_tcct.sql
+2018-06-02 17:34:38 ....A       354077               DBw/didaskaleio.sql
+2018-05-29 17:13:11 ....A      1309988               DBw/careerlabs.com.txt
+2018-05-29 14:07:54 ....A         5656               DBw/CodeRedTestServer.txt
+2018-05-29 14:08:16 ....A       907431               DBw/Desteria_E-Mails_25.9k.txt
+2018-05-29 14:08:33 ....A      2119703               DBw/FaithfulHCF_IPs_34k.txt
+2018-05-29 14:08:38 ....A      2016989               DBw/Faithful_Buycraft.txt
+2018-05-29 14:09:21 ....A        34350               DBw/GoaCraft_E-Mails_1k.txt
+2018-05-29 14:11:15 ....A         5740               DBw/Harambe_Ghost_Client_140.txt
+2018-05-29 14:11:28 ....A       313248               DBw/IonCraft_Buycraft_2k (2).txt
+2018-05-29 14:12:38 ....A        38940               DBw/RoyaltyPvP_E-Mails_1k.txt
+2018-05-29 14:12:48 ....A       703854               DBw/RoyaltyPvP_LiteBans_IPs_11k.txt
+2018-05-29 14:12:59 ....A       284385               DBw/SaiCoPvP_E-Mails_8.3k.txt
+2018-05-29 14:13:04 ....A       309343               DBw/Saico_E-mails.txt
+2018-05-29 14:15:35 ....A        20662               DBw/SpellPvP_IPs_285.txt
+2018-05-29 14:20:05 ....A         2992               DBw/clubpenguinrewritten.pw_database_breach_#2.txt
+2018-05-29 14:17:06 ....A       624834               DBw/VileMC_2 (1).csv
+2018-05-29 14:17:43 ....A        62368               DBw/Zolus_IPs_2.7k.txt
+2018-05-29 14:20:34 ....A       382110               DBw/dBZ MINECRAFT ACC.txt
+2018-05-29 14:20:40 ....A       834198               DBw/darcecraft.com_10k.txt
+2018-05-29 14:20:57 ....A      1036663               DBw/delta stresser.csv
+2018-05-29 14:27:09 ....A       759610               DBw/brgen.xyz.txt
+2018-05-29 14:27:14 ....A       963734               DBw/draftsforsale.com.txt
+2018-05-29 14:27:37 ....A       151858               DBw/mpps.gob.ve.sql
+2018-05-29 15:36:14 ....A        66097               DBw/atheistfoundation.org.au-vb-2017.txt
+2018-05-29 15:36:23 ....A        66097               DBw/atheistfoundation.org.au-vb-2017.csv
+2018-05-29 17:17:00 ....A      6948861               DBw/hortinews.csv
+2018-05-29 17:18:25 ....A         5304               DBw/ibchan.com.txt
+2018-05-29 17:18:38 ....A        10369               DBw/ibuypower.csv
+2018-05-29 17:19:58 ....A         8694               DBw/indianEmbassy.csv
+2018-05-29 17:20:08 ....A      1338962               DBw/iog-games.txt
+2018-05-29 17:20:51 ....A        89745               DBw/ipb_runehints.csv
+2018-05-29 17:21:11 ....A      2929573               DBw/ipb_tipit.csv
+2018-05-29 17:21:23 ....A        18721               DBw/ipb_tkoe_new.csv
+2018-05-29 17:22:51 ....A        48858               DBw/jays_booter_users_2012_12_09_22_12.sql
+2018-05-29 17:22:58 ....A       150767               DBw/jehon.csv
+2018-05-29 17:23:22 ....A        14159               DBw/koeberg_nuclear_powerstation_database_dump.sql
+2018-05-29 17:24:48 ....A        69572               DBw/lizardstresser_database_dump.csv
+2018-05-29 17:25:06 ....A       311218               DBw/lotronline.csv
+2018-05-29 17:26:02 ....A         1429               DBw/mazda.gh.tw.db.txt
+2018-05-29 17:27:09 ....A       268960               DBw/milq.com.csv
+2018-05-29 17:27:31 ....A         1711               DBw/mizihuatanejo.co.csv
+2018-05-29 17:29:21 ....A       386635               DBw/neofriends.csv
+2018-05-29 17:30:35 ....A        25832               DBw/nyx_stresser.csv
+2018-05-29 17:31:01 ....A       117810               DBw/outwardb.csv
+2018-05-29 17:31:57 ....A      1057119               DBw/phpbb_globalrs.csv
+2018-05-29 17:32:29 ....A       168059               DBw/pixarra.csv
+2018-05-29 17:34:10 ....A       435553               DBw/pollackassociates.com - pollack_main.customers13k - 30.10.2016.csv
+2018-06-02 17:35:35 ....A       322536               DBw/data3.sql
+2018-06-02 17:35:38 ....A       593253               DBw/db-backup-1286366730-8f0bc216cb6fb6f72fcb2d64735a5984.sql
+2018-06-02 17:35:41 ....A      1875892               DBw/db-backup-1374776565-559db6968f4a9aab7e27c16212f8ebc4.sql
+2018-06-02 17:36:39 ....A       416608               DBw/site-www.inhomehaircare.com-20081028-162731.sql
+2018-06-02 17:48:23 ....A         2163               DBw/9-12-district.backup.txt
+2018-06-02 17:48:30 ....A         1669               DBw/9-12-province.backup
+2018-06-02 17:50:49 ....A          633               DBw/user_mysqlinfo.txt
+2018-06-02 18:01:34 ....A       117159               DBw/larry_kontur.sql
+2018-06-02 18:02:21 ....A       178704               DBw/aa.sql
+2018-06-02 18:06:16 ....A      3926217               DBw/m2.sql
+2018-06-02 18:10:29 ....A        54856               DBw/ordersys.sql
+2018-06-02 18:10:38 ....A         3623               DBw/simplersvp2.sql
+2018-06-02 18:11:59 ....A       353548               DBw/backup.sql
+2018-06-02 18:12:03 ....A        18793               DBw/ht_dop.sql
+2018-06-02 18:13:38 ....A        39227               DBw/293333QRJTGAHJJPAJNKJ0-idb-db-dump.sql
+2018-06-02 18:14:20 ....A       237408               DBw/aerationpowersystems.sql
+2018-06-02 18:18:28 ....A        14060               DBw/HannayReelsCustomers.sql
+2018-06-02 21:35:50 ....A         2048               DBw/black lotus.db
+2018-06-01 01:59:26 D....            0            0  DBw/BTC-E_RaidForums
+2018-06-02 21:35:50 D....            0            0  DBw
+------------------- ----- ------------ ------------  ------------------------
+2018-06-02 21:35:50        79717573085  77066443218  1399 files, 2 folders
